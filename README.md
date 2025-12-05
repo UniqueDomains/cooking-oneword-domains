@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.COOKING one word doma
 | aaron.cooking      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.cooking  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.cooking      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.cooking  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.cooking  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.cooking    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.cooking     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.cooking   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.COOKING one word doma
 | abbatial.cooking   | available | 50       | 1%     | 8      |           |         |         |
 | abc.cooking        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.cooking  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.cooking  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.cooking  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.cooking | available | 56       | 1%     | 10     |           |         |         |
 | abducens.cooking   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.cooking   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.COOKING one word doma
 | aberdonian.cooking | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.cooking   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.cooking    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.cooking  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.cooking  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.cooking    | available | 106      | 5%     | 7      |           |         |         |
 | abient.cooking     | available | 54       | 1%     | 6      |           |         |         |
 | ability.cooking    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.COOKING one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
