@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cooking one-word domains from Uni
 
 **Public extract:** 9,675 rows · **Live catalog:** 9,675 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cooking`  
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | enterprise.cooking | available | $33.98    | —             | 68             | 61     | 10     | namecheap        |
 | web.cooking        | resell    | —         | —             | 72             | 61     | 3      | GoDaddy.com, LLC |
 | zero.cooking       | premium   | $100      | $45.99        | 112            | 53     | 4      | name.com         |
-| alpha.cooking      | available | $33.98    | —             | 90             | 54     | 5      | namecheap        |
+| alpha.cooking      | available | $33.98    | —             | 90             | 53     | 5      | namecheap        |
 | search.cooking     | resell    | —         | —             | 70             | 57     | 6      | GoDaddy.com, LLC |
 | fast.cooking       | premium   | $250      | $45.99        | 82             | 53     | 4      | name.com         |
 | good.cooking       | available | $33.98    | —             | 82             | 53     | 4      | namecheap        |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
