@@ -75,13 +75,13 @@ print(df.head())
 | zero.cooking       | premium   | $100      | $45.99        | 112            | 53     | 4      | name.com         |
 | alpha.cooking      | available | $33.98    | —             | 90             | 53     | 5      | namecheap        |
 | search.cooking     | resell    | —         | —             | 70             | 57     | 6      | GoDaddy.com, LLC |
-| fast.cooking       | premium   | $250      | $45.99        | 82             | 53     | 4      | name.com         |
+| one.cooking        | premium   | $50       | $45.99        | 132            | 52     | 3      | name.com         |
 | good.cooking       | available | $33.98    | —             | 82             | 53     | 4      | namecheap        |
 | live.cooking       | resell    | —         | —             | 108            | 56     | 4      | GoDaddy.com, LLC |
-| one.cooking        | premium   | $50       | $45.99        | 132            | 52     | 3      | name.com         |
+| art.cooking        | premium   | $104      | $31.20        | 90             | 52     | 3      | namecheap        |
 | athletics.cooking  | available | $33.98    | —             | 69             | 52     | 9      | namecheap        |
 | bot.cooking        | resell    | —         | —             | 80             | 53     | 3      | Spaceship, Inc.  |
-| art.cooking        | premium   | $104      | $31.20        | 90             | 52     | 3      | namecheap        |
+| fast.cooking       | premium   | $250      | $45.99        | 82             | 52     | 4      | name.com         |
 | trade.cooking      | available | $33.98    | —             | 116            | 46     | 5      | namecheap        |
 | true.cooking       | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC |
 
