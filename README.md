@@ -1,10 +1,10 @@
-# Available .COOKING One-Word Domains (12,033)
+# Available .COOKING One-Word Domains (12,652)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C033%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C652%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cooking one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,033 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,652 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,033 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,652 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/cooking`  
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | whynot.cooking        | available | $43.98    | —             | 74             | 39     | 7      | namecheap |
 | Ryan.cooking          | premium   | $112      | $35           | 60             | 44     | 4      | namecheap |
 | events.cooking        | available | $43.98    | —             | 68             | 37     | 6      | namecheap |
-| Tools.cooking         | premium   | $280      | $35           | 56             | 40     | 5      | namecheap |
-| tickets.cooking       | available | $32.49    | $32.49        | 64             | 34     | 7      | namesilo  |
 | justin.cooking        | premium   | $100      | —             | 58             | 38     | 7      | name.com  |
 | spectra.cooking       | available | $43.98    | —             | 62             | 34     | 7      | namecheap |
 | stories.cooking       | premium   | $100      | —             | 58             | 36     | 7      | name.com  |
-| Cats.cooking          | available | $43.98    | —             | 59             | 33     | 4      | namecheap |
-| William.cooking       | premium   | $112      | $35           | 74             | 31     | 7      | namecheap |
-| payments.cooking      | available | $43.98    | —             | 58             | 33     | 8      | namecheap |
-| SanDiego.cooking      | premium   | $242      | $29.50        | 74             | 29     | 9      | namesilo  |
 | partners.cooking      | available | $43.98    | —             | 61             | 32     | 8      | namecheap |
-| schools.cooking       | premium   | $250      | —             | 72             | 24     | 7      | name.com  |
+| slots.cooking         | premium   | $96       | $29.50        | 49             | 31     | 5      | namesilo  |
 | trends.cooking        | available | $43.98    | —             | 60             | 32     | 6      | namecheap |
-| girls.cooking         | premium   | $250      | —             | 83             | 23     | 5      | name.com  |
-| solutions.cooking     | available | $43.98    | —             | 56             | 31     | 9      | namecheap |
+| SanDiego.cooking      | premium   | $242      | $29.50        | 74             | 29     | 9      | namesilo  |
+| inspiration.cooking   | available | $43.98    | —             | 88             | 30     | 11     | namecheap |
 | pls.cooking           | premium   | $50       | —             | 60             | 23     | 3      | name.com  |
+| spaces.cooking        | available | $43.98    | —             | 54             | 30     | 6      | namecheap |
+| pros.cooking          | premium   | $96       | $29.50        | 53             | 23     | 4      | namesilo  |
+| quotes.cooking        | available | $43.98    | —             | 58             | 29     | 6      | namecheap |
+| Alexis.cooking        | premium   | $96       | $29.50        | 72             | 21     | 6      | namesilo  |
+| blocks.cooking        | available | $43.98    | —             | 53             | 29     | 6      | namecheap |
+| VHS.cooking           | premium   | $56       | $35           | 71             | 20     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,033 live domains                              |
+| 1,000-row public sample | 12,652 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
