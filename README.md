@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .cooking one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,652 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,652 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,652 domains · **Median ask:** $43.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/cooking`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,14 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Trex.cooking          | available | $43.98    | —             | 80             | 24     | 5      | namecheap |
+| barup.cooking         | available | $43.98    | —             | 82             | 2      | 6      | namecheap |
+| geton.cooking         | available | $43.98    | —             | 82             | 10     | 6      | namecheap |
+| toneup.cooking        | available | $43.98    | —             | 80             | 5      | 7      | namecheap |
+| makeit.cooking        | available | $43.98    | —             | 82             | 22     | 7      | namecheap |
+| stirup.cooking        | available | $43.98    | —             | 82             | 3      | 7      | namecheap |
+| dogsick.cooking       | available | $43.98    | —             | 90             | 1      | 7      | namecheap |
+| leaveon.cooking       | available | $43.98    | —             | 80             | 1      | 8      | namecheap |
 | keepthechange.cooking | available | $43.98    | —             | 46             | 59     | 15     | namecheap |
 | farmers.cooking       | premium   | $250      | —             | 54             | 59     | 7      | name.com  |
 | whynot.cooking        | available | $43.98    | —             | 74             | 39     | 7      | namecheap |
@@ -76,14 +84,6 @@ print(df.head())
 | slots.cooking         | premium   | $96       | $29.50        | 49             | 31     | 5      | namesilo  |
 | trends.cooking        | available | $43.98    | —             | 60             | 32     | 6      | namecheap |
 | SanDiego.cooking      | premium   | $242      | $29.50        | 74             | 29     | 9      | namesilo  |
-| inspiration.cooking   | available | $43.98    | —             | 88             | 30     | 11     | namecheap |
-| pls.cooking           | premium   | $50       | —             | 60             | 23     | 3      | name.com  |
-| spaces.cooking        | available | $43.98    | —             | 54             | 30     | 6      | namecheap |
-| pros.cooking          | premium   | $96       | $29.50        | 53             | 23     | 4      | namesilo  |
-| quotes.cooking        | available | $43.98    | —             | 58             | 29     | 6      | namecheap |
-| Alexis.cooking        | premium   | $96       | $29.50        | 72             | 21     | 6      | namesilo  |
-| blocks.cooking        | available | $43.98    | —             | 53             | 29     | 6      | namecheap |
-| VHS.cooking           | premium   | $56       | $35           | 71             | 20     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,652 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,652 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names on the .cooking extension. That makes this selection highly specific: every option points directly at a food, recipe, kitchen, chef, or culinary angle through the TLD itself. Examples like Acup.cooking, Finals.cooking, Ladies.cooking, and Popup.cooking show the range from abstract to phrase-like pairings. For founders, the main question is whether the word stays clear, memorable, and commercially usable when paired with .cooking. For investors, the key test is whether the name is buyable at a sensible ask relative to likely end-user appeal. With a median ask of 43.65, focus on clean words, strong recall, and renewal fit before deciding.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .cooking extension
+- 12,652 one-word domains are included in this set
+- Median ask across the selection is 43.65
+- Prioritize clear words that pair naturally with .cooking
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
