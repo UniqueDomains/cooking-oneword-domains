@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cooking one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,654 domains · **Median ask:** $43.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/cooking`  
 **Best for:** founders, investors, studios
 
@@ -80,9 +80,9 @@ print(df.head())
 | justin.cooking        | premium   | $100      | —             | 58             | 38     | 7      | name.com  |
 | spectra.cooking       | available | $43.98    | —             | 62             | 34     | 7      | namecheap |
 | stories.cooking       | premium   | $100      | —             | 58             | 36     | 7      | name.com  |
-| partners.cooking      | available | $43.98    | —             | 61             | 32     | 8      | namecheap |
-| slots.cooking         | premium   | $96       | $29.50        | 49             | 31     | 5      | namesilo  |
 | trends.cooking        | available | $43.98    | —             | 60             | 32     | 6      | namecheap |
+| slots.cooking         | premium   | $96       | $29.50        | 49             | 31     | 5      | namesilo  |
+| partners.cooking      | available | $43.98    | —             | 61             | 31     | 8      | namecheap |
 | SanDiego.cooking      | premium   | $242      | $29.50        | 74             | 29     | 9      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
