@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cooking one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,865 domains · **Median ask:** $38.04 · **High-demand under $2,500:** 20
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/cooking`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| acts.cooking | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
-| buy.cooking  | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.  |
-| ale.cooking  | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
-| arab.cooking | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
-| god.cooking  | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
-| and.cooking  | premium   | $96       | $29.50        | high           | medium | 3      | namesilo         |
-| asat.cooking | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
-| that.cooking | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| Ann.cooking  | premium   | $96       | $29.50        | high           | low    | 3      | namesilo         |
-| ashy.cooking | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
-| weed.cooking | resell    | —         | —             | medium         | low    | 4      | IONOS SE         |
-| ask.cooking  | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo         |
-| aunt.cooking | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
-| ass.cooking  | premium   | $96       | $29.50        | low            | low    | 3      | namesilo         |
-| bath.cooking | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
-| clx.cooking  | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo         |
-| bean.cooking | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
-| cot.cooking  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
-| been.cooking | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
-| don.cooking  | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| pan.cooking    | premium   | $96       | $29.50        | high           | low    | 3      | namesilo         |
+| relish.cooking | available | $32.49    | $32.49        | high           | low    | 6      | namesilo         |
+| garlic.cooking | available | —         | —             | high           | low    | 6      | —                |
+| flame.cooking  | available | —         | —             | high           | low    | 5      | —                |
+| half.cooking   | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| acts.cooking   | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| buy.cooking    | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.  |
+| ale.cooking    | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
+| arab.cooking   | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
+| god.cooking    | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
+| and.cooking    | premium   | $96       | $29.50        | high           | medium | 3      | namesilo         |
+| asat.cooking   | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
+| that.cooking   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| Ann.cooking    | premium   | $96       | $29.50        | high           | low    | 3      | namesilo         |
+| ashy.cooking   | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
+| weed.cooking   | resell    | —         | —             | medium         | low    | 4      | IONOS SE         |
+| ask.cooking    | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo         |
+| aunt.cooking   | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| ass.cooking    | premium   | $96       | $29.50        | low            | low    | 3      | namesilo         |
+| bath.cooking   | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
