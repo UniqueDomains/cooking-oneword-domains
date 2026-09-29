@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 375401de-98e5-465a-ae55-95d145a19a09,peccable.cooking,available,32.49,32.49,medium,low,8,namesilo,,,08/09/2026 11:30
 d22060a4-2742-440a-87e8-20296da9c834,sharpened.cooking,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 06:03
+4796d6e5-9f00-4b2b-9382-4bfdbdbe6103,vicinity.cooking,available,25.2,25.2,high,low,8,cloudflare,,,28/09/2026 19:41
 5029292c-c3f3-486e-8f3f-e66c6b527841,patter.cooking,available,33.98,43.98,high,low,6,namecheap,,,15/09/2026 20:21
 ea0882fa-f862-4798-bcfd-b9c5f1ebc9e0,flatbottom.cooking,available,32.49,32.49,medium,low,10,namesilo,,,18/08/2026 06:51
 1fa046ee-31e7-477d-a76a-b3d3cc56f0ba,cousin.cooking,available,33.98,43.98,high,low,6,namecheap,,,24/09/2026 18:49
@@ -8,22 +9,25 @@ d897cf1b-3f9b-41e9-b773-203847773e72,mud.cooking,premium,52,32.5,high,low,3,name
 ba7ca144-1e68-4f95-9dd2-052e63793c17,allusion.cooking,available,46.99,46.99,high,low,8,name.com,,,18/09/2026 12:15
 ce1c3431-5573-4ef6-bda2-86eab97860cc,actuator.cooking,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 05:24
 83a17286-7f5c-42a0-b9fa-a058316aee4a,laic.cooking,available,33.98,43.98,medium,low,4,namecheap,,,22/08/2026 18:47
+de6130c5-4787-41a9-bba3-c3c6cfc1ecda,fleeing.cooking,available,25.2,25.2,medium,low,7,cloudflare,,,29/09/2026 03:23
 69517c07-6a72-4e2c-9082-984b0b13d302,places.cooking,available,32.49,32.49,high,low,6,namesilo,,,
 922e998c-8ba1-4a1e-8f2e-158e0b26cbb3,event.cooking,available,33.98,43.98,high,medium,5,namecheap,,,25/09/2026 05:15
 2523d0b6-e743-4c83-98ca-a160fb313e2e,robust.cooking,available,33.98,43.98,high,low,6,namecheap,,,18/08/2026 18:02
-1b29f5cd-af0d-4544-af5a-37106896db69,adieu.cooking,available,32.49,32.49,high,low,5,namesilo,,,
+1b29f5cd-af0d-4544-af5a-37106896db69,adieu.cooking,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 18:34
 dbb5bf70-2211-44a4-a83f-796b56bf6f80,antagonist.cooking,available,32.49,32.49,high,low,10,namesilo,,,17/09/2026 10:48
+94ac13e2-6234-4689-af55-641e1c10fb99,vanessa.cooking,available,32.49,32.49,high,low,7,namesilo,,,28/09/2026 09:53
 a4c660f7-9900-4b50-aa75-95fa5854b668,dependance.cooking,available,32.49,32.49,medium,low,10,namesilo,,,17/09/2026 06:55
 b00513db-a965-43dd-b9f0-612961c2e520,usgs.cooking,available,32.49,32.49,medium,low,4,namesilo,,,28/09/2026 03:54
 018cbc62-99c4-4e78-ae3e-7f213908b79d,resupine.cooking,available,32.49,32.49,medium,low,8,namesilo,,,09/09/2026 15:30
 26cf710c-7a03-4c1f-999b-75b549b28ca3,unshelled.cooking,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 06:23
 82956ced-f06d-4dd9-b692-0c2133911e88,cathodic.cooking,available,32.49,32.49,medium,low,8,namesilo,,,11/08/2026 21:56
-9e94c626-f9fa-4c42-abcc-759cd8b96c32,tech.cooking,premium,96,29.5,high,medium,4,namesilo,,,27/09/2026 01:41
+9e94c626-f9fa-4c42-abcc-759cd8b96c32,tech.cooking,premium,96,29.5,high,medium,4,namesilo,,,28/09/2026 17:43
 6481eb74-075f-4703-a3cf-1233c119597a,autograph.cooking,available,32.49,32.49,high,low,9,namesilo,,,21/09/2026 06:37
 6e63ac55-3eec-40f9-a31b-a79b5df142d7,scored.cooking,available,26.08,26.08,medium,low,6,spaceship,,,27/09/2026 23:20
 ed51482e-5adf-4f07-b073-9822a4261302,allmouth.cooking,available,32.49,32.49,medium,low,8,namesilo,,,18/09/2026 11:45
 ca1be3a1-f9d0-4844-8b1c-29d3b8f736c7,atacama.cooking,available,32.49,32.49,medium,low,7,namesilo,,,
 52b93301-352f-4683-b401-51c6b8881f92,charmed.cooking,available,32.49,32.49,high,low,7,namesilo,,,09/08/2026 09:57
+d2828cff-d593-4dc1-abd9-e4b172b5dd86,vest.cooking,available,26.08,26.08,medium,low,4,spaceship,,,28/09/2026 10:51
 5fa23a23-9264-46fe-8ccf-3fa95c30128f,disgorge.cooking,available,32.49,32.49,high,medium,8,namesilo,,,10/09/2026 07:35
 24c4336b-841b-42cb-892d-f5b9fe74b754,plosive.cooking,available,32.49,32.49,medium,low,7,namesilo,,,04/09/2026 00:16
 4e652404-8f29-4327-bc0b-369e7e8e144e,tellingly.cooking,available,32.49,32.49,medium,low,9,namesilo,,,16/09/2026 08:14
@@ -32,6 +36,7 @@ a3227d40-23e4-4ba7-bd0e-36b45b1cefe6,notifiable.cooking,available,32.49,32.49,me
 105e7682-f340-4690-9367-d938dac36d49,fancied.cooking,available,33.98,43.98,high,low,7,namecheap,,,17/08/2026 20:17
 d49e0075-52be-45a8-ab13-988b875e56b3,employees.cooking,available,32.49,32.49,medium,low,9,namesilo,,,27/09/2026 02:50
 65bd6ff1-0b2d-46de-b4ba-da2ac32f5ff7,cable.cooking,available,32.49,32.49,high,low,5,namesilo,,,24/09/2026 11:34
+fa4f612b-01a0-432e-8b40-2d2338290498,beasts.cooking,available,26.08,26.08,low,low,6,spaceship,,,28/09/2026 23:05
 4b35cf69-a31a-4c6d-b709-87c9a4bc7fd3,cad.cooking,premium,104,32.5,high,low,3,namecheap,,,24/09/2026 02:18
 11068884-4c0f-47a1-927f-d39c463fc94e,mathias.cooking,available,32.49,32.49,high,low,7,namesilo,,,28/09/2026 05:17
 20998465-3718-4fd9-ac7d-d0356421330c,deferent.cooking,available,32.49,32.49,medium,low,8,namesilo,,,13/08/2026 23:17
@@ -43,6 +48,7 @@ df6c0c1b-af5f-4d23-ad6c-0dbf011be24e,adjunction.cooking,available,32.49,32.49,me
 a834c775-6b87-4658-8c2a-8c818fec5394,nitrogen.cooking,available,32.49,32.49,high,low,8,namesilo,,,20/09/2026 23:37
 d2bd11ab-130c-431a-86e6-86f5c21bcec8,congested.cooking,available,32.49,32.49,medium,low,9,namesilo,,,12/08/2026 21:46
 fd2ed5d9-42f9-40aa-bd3d-8667350953ff,sarawakian.cooking,available,33.98,43.98,high,medium,10,namecheap,,,09/09/2026 21:26
+aa46cc21-54d5-4c5f-999a-ce4a4df358eb,bsa.cooking,premium,41.6,26.08,high,low,3,spaceship,,,29/09/2026 02:49
 3d70e497-01a0-4586-a100-875aa3d828d5,insidious.cooking,available,32.49,32.49,medium,low,9,namesilo,,,22/08/2026 07:05
 fbadf438-1b0a-41db-9bef-cdcbb9958206,employed.cooking,available,33.98,43.98,high,low,8,namecheap,,,16/08/2026 18:24
 6a26c8ad-097c-4ebd-9f26-d93d67e1584f,cub.cooking,premium,104,32.5,high,low,3,namecheap,,,24/09/2026 20:02
@@ -73,7 +79,10 @@ c6d7bc2d-96e3-4a49-9316-d16674a9a05a,nicolas.cooking,premium,96,29.5,high,low,7,
 17887166-239c-41f0-827a-7f05a65a2434,mark.cooking,premium,96,29.5,high,medium,4,namesilo,,,24/09/2026 01:59
 cb81b2d7-8ad6-439f-ba19-d469dd27e0be,inspirational.cooking,available,32.49,32.49,high,low,13,namesilo,,,
 521d21f4-3ea2-452f-b671-b1b3dc75c818,inharmonic.cooking,available,32.49,32.49,low,low,10,namesilo,,,14/08/2026 10:54
+c1f48a38-5068-4933-b9c4-e471770bb627,assembled.cooking,available,25.2,25.2,medium,low,9,cloudflare,,,28/09/2026 23:20
+6c5a3c78-12d0-484c-9bb1-ac3c11578ac4,allows.cooking,available,25.2,25.2,low,low,6,cloudflare,,,28/09/2026 08:44
 5e3ddb66-1373-47c4-b920-fc3d0b9aac2b,enchained.cooking,available,32.49,32.49,medium,low,9,namesilo,,,12/08/2026 01:24
+2620067a-585d-4481-9ffc-5f267a9ae644,nantes.cooking,available,32.49,32.49,medium,low,6,namesilo,,,28/09/2026 10:30
 9f2491fb-9e18-46ab-b815-98b6a163a631,advocator.cooking,available,46.99,46.99,medium,low,9,name.com,,,17/09/2026 11:45
 fa3026b6-b83d-4f73-bfdd-f039447e3751,prying.cooking,available,32.49,32.49,medium,low,6,namesilo,,,03/09/2026 21:52
 01a47585-80b4-4e2b-96c9-2b29b92587e3,favorite.cooking,premium,96,29.5,high,low,8,namesilo,,,24/09/2026 04:33
@@ -83,6 +92,8 @@ d840870b-8d04-4c4b-b9d7-409d121f7dbd,barbara.cooking,premium,96,29.5,high,low,7,
 7d2fbe1c-3313-4899-a25c-5e9476bcaad7,everyone.cooking,available,43.98,,high,low,8,namecheap,,,
 d5d08be0-65e6-4a67-8cba-77bd2fa61936,tales.cooking,available,32.49,32.49,high,low,5,namesilo,,,18/09/2026 16:46
 9d842b3d-9a3a-4677-85e1-59ae2b52d188,aegina.cooking,available,33.98,43.98,medium,low,6,namecheap,,,17/09/2026 12:15
+bdd27a9e-d65e-40af-9f72-0ec47d34d499,expelled.cooking,available,26.08,26.08,low,low,8,spaceship,,,28/09/2026 12:50
+c03efb91-7a12-427e-a110-312c3cd5424e,lordship.cooking,available,26.08,26.08,medium,low,8,spaceship,,,28/09/2026 19:44
 33fb458b-5ded-44b6-8883-087a248549f1,stygian.cooking,available,32.49,32.49,medium,low,7,namesilo,,,
 1842caa5-12df-45b6-b169-7df1084ed5f5,sixtieth.cooking,available,32.49,32.49,medium,low,8,namesilo,,,
 c7331a4b-eb72-4232-88f5-21959d1826fc,outbred.cooking,available,33.98,43.98,medium,low,7,namecheap,,,04/09/2026 19:03
@@ -92,6 +103,7 @@ c7331a4b-eb72-4232-88f5-21959d1826fc,outbred.cooking,available,33.98,43.98,mediu
 5eca4517-44cc-4728-a8ab-e20c4d39784c,hans.cooking,available,32.49,32.49,high,low,4,namesilo,,,
 841346be-040e-4b58-a460-585877cb1bd3,blenheim.cooking,available,33.98,43.98,medium,low,8,namecheap,,,24/09/2026 05:52
 34f5327c-d9cb-4457-b77c-a97234859df9,veterans.cooking,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 11:06
+cdad9938-2f20-4159-a6e4-faab856fa934,sorbonne.cooking,available,26.08,26.08,medium,low,8,spaceship,,,28/09/2026 20:07
 acf53f7b-b84f-420c-99ee-6a5fea5cda89,dday.cooking,available,32.49,32.49,high,low,5,namesilo,,,16/09/2026 12:39
 c8466341-5f2b-495f-bdf1-d4506b277717,binomial.cooking,available,32.49,32.49,high,low,8,namesilo,,,10/08/2026 00:30
 2cd8254a-337d-47c0-99ae-1c6fcffc6707,fulsome.cooking,available,32.49,32.49,medium,low,7,namesilo,,,11/08/2026 11:40
@@ -106,9 +118,10 @@ b6477a0e-af4f-4f1a-b1a3-b940c176bba3,starboard.cooking,available,32.49,32.49,hig
 20d3fc6c-3e9b-43e4-8167-3dca4c651f0e,attire.cooking,available,32.49,32.49,high,low,6,namesilo,,,21/09/2026 01:52
 2f53bf5f-d7f0-4f40-92f1-22d0473b346c,autotelic.cooking,available,33.98,43.98,high,low,9,namecheap,,,07/08/2026 21:08
 766b8528-e712-44f2-b4c0-3fd08b9e1cd4,february.cooking,available,32.49,32.49,high,low,8,namesilo,,,
+72672e1c-c8c2-44a5-bd7f-9f31f44afc91,martini.cooking,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 14:50
 36f1b3e2-8d00-44d0-836a-618022e7bbce,why.cooking,premium,96,29.5,high,low,3,namesilo,,,25/09/2026 10:59
 3317997e-2ce1-4dc8-842a-407b2a6461f2,succeed.cooking,available,32.49,32.49,high,low,7,namesilo,,,
-77f157b6-95c4-4a0e-b928-4d7835f12da6,barrier.cooking,available,32.49,32.49,medium,low,7,namesilo,,,
+77f157b6-95c4-4a0e-b928-4d7835f12da6,barrier.cooking,available,25.2,25.2,medium,low,7,cloudflare,,,29/09/2026 01:15
 2a04d7b7-de32-4ce1-bcad-605556b27368,biogeny.cooking,available,,,medium,low,7,,,,23/09/2026 18:05
 86b29f80-3d5f-402a-986b-8c03a6ca7b85,filipino.cooking,available,32.49,32.49,high,low,8,namesilo,,,18/08/2026 04:19
 6bd2f28f-f341-4fd5-ac85-df8a75dd28f0,coalescent.cooking,available,32.49,32.49,medium,low,10,namesilo,,,12/08/2026 13:51
@@ -135,13 +148,15 @@ e2019f2c-574e-4569-80dc-6f5324a113e2,maddened.cooking,available,32.49,32.49,medi
 399582ab-1a60-4771-80bb-3cfd56b68546,gnomish.cooking,available,32.49,32.49,medium,low,7,namesilo,,,20/08/2026 15:45
 eb03b8d1-1759-463a-b847-a75d7242117b,device.cooking,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 04:21
 cb1ff3c4-de94-4077-ba7c-aa059427d62d,westminster.cooking,available,32.49,32.49,high,low,11,namesilo,,,
+c1966908-66c7-42df-910d-c8aa06d34da0,goals.cooking,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 07:10
 102ad209-23ea-4ba8-9967-fc95d109cc55,emile.cooking,available,25.2,25.2,medium,low,5,cloudflare,,,27/09/2026 13:23
 4d5a41ac-29e9-4533-a070-fccdd23747fc,jutting.cooking,available,32.49,32.49,medium,low,7,namesilo,,,22/08/2026 14:44
+ef7c3f6f-6b2a-4e0c-8010-c913574b756d,eec.cooking,premium,41.6,26.08,high,low,3,spaceship,,,29/09/2026 00:28
 525130d4-e7af-40c1-821a-d66d031d7f2d,hound.cooking,available,32.49,32.49,medium,low,5,namesilo,,,24/09/2026 02:24
 32a89947-f8c2-4071-99cf-b9a1ff6cfeda,acorea.cooking,available,32.49,32.49,medium,low,6,namesilo,,,17/09/2026 02:12
-138147d8-fd34-4038-99f6-4a9f941161da,hence.cooking,available,43.98,,high,low,5,namecheap,,,
+138147d8-fd34-4038-99f6-4a9f941161da,hence.cooking,available,26.97,26.97,medium,low,5,dynadot,,,28/09/2026 15:09
 fe13e6b8-1f59-4a9f-9719-064aed0db071,maimed.cooking,available,32.49,32.49,medium,low,6,namesilo,,,24/08/2026 13:20
-2fd1bbab-4ccf-46c8-9f97-b9754dc7b237,aunt.cooking,available,32.49,32.49,high,low,4,namesilo,,,
+2fd1bbab-4ccf-46c8-9f97-b9754dc7b237,aunt.cooking,available,32.49,32.49,high,low,4,namesilo,,,28/09/2026 23:17
 183c68e6-5b41-433a-ab60-0a72def1679e,dafla.cooking,available,32.49,32.49,medium,low,5,namesilo,,,16/09/2026 16:37
 4e9a6ce9-3f16-4859-81e7-039cb8b55f56,sextet.cooking,available,32.49,32.49,medium,low,6,namesilo,,,
 8f85117c-84d0-4367-aea0-f0a2809a8144,ackack.cooking,available,32.49,32.49,medium,low,7,namesilo,,,
@@ -152,7 +167,7 @@ d259752f-5ddc-40e7-ace3-ac030f05c3d9,choke.cooking,available,32.49,32.49,medium,
 000e2fa3-fc78-4fdd-9e3c-54d98e6457d6,thievery.cooking,available,32.49,32.49,medium,low,8,namesilo,,,11/09/2026 13:20
 ad032db6-7589-439a-a470-c257e89ee791,wandered.cooking,available,33.98,43.98,medium,low,8,namecheap,,,18/09/2026 02:36
 be0a2572-2784-4d36-9aec-269711aa0a38,brisken.cooking,available,32.49,32.49,medium,low,7,namesilo,,,11/08/2026 04:39
-17842696-bcc4-4cfe-8e6d-428049b6d04f,completion.cooking,available,32.49,32.49,high,low,10,namesilo,,,
+17842696-bcc4-4cfe-8e6d-428049b6d04f,completion.cooking,available,25.2,25.2,high,low,10,cloudflare,,,28/09/2026 10:41
 ee2fc2a9-b33a-446f-a34c-6f3e31fc81d4,coy.cooking,premium,47.2,29.5,high,low,3,namesilo,,,24/09/2026 01:10
 8b95f6bf-5861-4ff3-8f5b-1833f7a13e25,sandwich.cooking,premium,47.2,29.5,high,low,8,namesilo,,,
 bb85d8df-883d-4383-b4cf-21724ee04f90,lena.cooking,available,32.49,32.49,high,low,4,namesilo,,,25/09/2026 08:55
@@ -168,11 +183,14 @@ fba533e5-235a-446d-a767-1e6ee06df699,alcibiades.cooking,available,32.49,32.49,me
 7ad42deb-b47c-44f9-873a-ceca6b32b44d,allophonic.cooking,available,32.49,32.49,medium,low,10,namesilo,,,
 95dc1696-dfd2-4d4b-9455-5b6cafcf7c99,agastache.cooking,available,32.49,32.49,medium,low,9,namesilo,,,17/09/2026 16:24
 9cfb7c12-9561-4528-898c-fac5c2ea1a93,barren.cooking,available,32.49,32.49,medium,low,6,namesilo,,,08/08/2026 20:57
+6c600643-22d7-4f06-9e4e-f928fbd40e34,enrico.cooking,available,32.49,32.49,medium,low,6,namesilo,,,28/09/2026 13:31
 c7e346c3-7731-4601-84ec-012790b6a2a6,beany.cooking,available,33.98,43.98,high,low,5,namecheap,,,22/09/2026 20:33
 316a6639-6a85-4ecf-96e3-cd31ba4f9862,unplug.cooking,available,32.49,32.49,high,low,6,namesilo,,,
 61d6e39d-dc22-478c-a5c9-ca9ca9d27b46,primadonna.cooking,available,43.98,,medium,low,11,namecheap,,,
 696c6427-397b-4b84-a021-147fc6cbad45,botchy.cooking,available,33.98,43.98,medium,low,6,namecheap,,,10/08/2026 20:53
+f0430061-3ec8-4c63-99ad-1d6e7d58e7fe,uri.cooking,premium,,,high,low,3,,,,28/09/2026 21:32
 7bfb052f-2d31-4adf-875e-a9925db5f868,acidosis.cooking,available,33.98,43.98,medium,low,8,namecheap,,,17/09/2026 01:28
+788313c8-493a-4f0a-8eb3-a9f16e512f38,peabody.cooking,available,26.08,26.08,medium,low,7,spaceship,,,29/09/2026 00:46
 da09adab-7312-49d7-ba9c-ee92281fdce2,dior.cooking,available,33.98,43.98,high,medium,4,namecheap,,,24/09/2026 14:51
 45c6b6d1-46bc-4019-8035-c1f1909d63ef,unshielded.cooking,available,33.98,43.98,medium,low,10,namecheap,,,12/09/2026 19:49
 fd23536b-04e0-4374-91d8-b657ee41cc06,rejoicing.cooking,available,32.49,32.49,high,low,9,namesilo,,,17/08/2026 19:50
@@ -196,14 +214,14 @@ a65592e2-26c4-4e3f-a390-e5881228b888,suitcase.cooking,available,32.49,32.49,high
 95d708e3-8718-4dad-82e2-8fc3c90d9976,ammonium.cooking,available,33.98,43.98,high,low,8,namecheap,,,18/09/2026 22:10
 19479513-5674-4350-903a-91328676dab2,olfactive.cooking,available,32.49,32.49,medium,low,9,namesilo,,,04/09/2026 02:13
 54546c9e-37a3-4b91-94b9-9077a3bb671b,tierce.cooking,available,32.49,32.49,medium,low,6,namesilo,,,
-1d8f4e03-7480-4979-af2e-136907db4f10,satan.cooking,available,32.49,32.49,high,low,5,namesilo,,,
+1d8f4e03-7480-4979-af2e-136907db4f10,satan.cooking,available,32.49,32.49,high,low,5,namesilo,,,29/09/2026 01:53
 930ff229-0819-4973-b6f0-027c39c6f1e7,baiza.cooking,available,33.98,43.98,medium,low,5,namecheap,,,21/09/2026 19:33
 91334600-f503-479d-8d93-1e857d8791b4,carpetbag.cooking,available,32.49,32.49,medium,low,9,namesilo,,,11/08/2026 19:44
 52d1ceca-7fe0-4ead-8e08-2743880c63b6,unknown.cooking,available,32.49,32.49,high,low,7,namesilo,,,03/09/2026 12:55
 7c5ee2d3-1339-4096-bbce-e7e03318ed99,sapid.cooking,available,32.49,32.49,high,low,5,namesilo,,,18/08/2026 07:14
 6793a747-a080-4bd7-81e7-8f6888cbc066,generates.cooking,available,32.49,32.49,medium,low,9,namesilo,,,08/09/2026 05:16
 cd7dbe16-c747-4131-bb4f-a1b1c40cccab,auspex.cooking,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 03:22
-a128f0bb-2daa-4960-8e95-621b5aaddd00,worthy.cooking,available,32.49,32.49,high,low,6,namesilo,,,
+a128f0bb-2daa-4960-8e95-621b5aaddd00,worthy.cooking,available,26.26,26.26,high,low,6,porkbun,,,28/09/2026 11:05
 03d0e9d0-acfe-4045-9c61-d26a5fa5bfa2,arginine.cooking,available,33.98,43.98,medium,low,8,namecheap,,,20/09/2026 04:24
 4e80b463-b744-4d85-b47a-83af4b208010,lee.cooking,premium,96,29.5,high,medium,3,namesilo,,,22/08/2026 22:18
 6961e93d-3982-42cc-b664-daf558f8b9bc,asgard.cooking,available,32.49,32.49,high,low,6,namesilo,,,20/09/2026 13:34
@@ -239,14 +257,15 @@ a5cc9034-3b78-441f-a0cd-c9f16aa8406e,organiser.cooking,available,32.49,32.49,hig
 9e2dfb33-f13c-4a90-9526-f76b102d8aa6,warped.cooking,available,32.49,32.49,medium,low,6,namesilo,,,13/09/2026 08:27
 3d0075c3-4922-4b28-9047-657dc3b2c938,guerrilla.cooking,available,32.49,32.49,high,low,9,namesilo,,,22/08/2026 10:14
 92ef8ef0-0c47-4926-9750-69249576f439,ampere.cooking,available,32.49,32.49,high,low,6,namesilo,,,18/09/2026 23:06
-f8540093-067f-4812-abb4-f9aac29a8187,beam.cooking,available,32.49,32.49,high,medium,4,namesilo,,,
+f8540093-067f-4812-abb4-f9aac29a8187,beam.cooking,available,32.49,32.49,high,medium,4,namesilo,,,29/09/2026 00:40
 0b58bce8-9f8a-4f67-94b9-19c01313ff80,grazed.cooking,available,33.98,43.98,medium,low,6,namecheap,,,20/08/2026 19:29
+eb12466c-23f0-4fb1-85be-bf542a70ff30,hypothesis.cooking,available,25.2,25.2,high,low,10,cloudflare,,,29/09/2026 02:33
 0627ceea-f56d-4545-9836-a3108643a7a2,alosa.cooking,available,32.49,32.49,medium,low,5,namesilo,,,18/09/2026 13:26
 5696eeba-4b58-4c10-b59e-b1a3580bca26,energiser.cooking,available,33.98,43.98,medium,low,9,namecheap,,,19/09/2026 09:08
 bec3522e-feb6-4426-816a-1df0e5534998,scouts.cooking,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 04:05
 46b8c566-175c-4368-8508-21ec8b6430dc,gruff.cooking,available,32.49,32.49,high,low,5,namesilo,,,13/08/2026 11:25
 e1ce3232-7aea-4de6-a2a3-2b148bc9a78a,tale.cooking,available,32.49,32.49,high,low,4,namesilo,,,03/09/2026 13:20
-3368c2a6-8d6f-4cb1-902e-137bca734003,cannot.cooking,available,32.49,32.49,high,low,6,namesilo,,,
+3368c2a6-8d6f-4cb1-902e-137bca734003,cannot.cooking,available,32.49,32.49,low,low,6,namesilo,,,28/09/2026 16:55
 7982ce9c-1ccf-4872-b46c-ee57f8b92f83,specified.cooking,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 15:25
 38b6b13d-230b-4ebc-8782-e50fe6944cfa,undesigned.cooking,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 07:46
 9fcdaae3-1355-4cda-bfe9-dbd79c9011b2,smarts.cooking,available,33.98,43.98,high,low,6,namecheap,,,16/09/2026 18:16
@@ -254,7 +273,8 @@ e1ce3232-7aea-4de6-a2a3-2b148bc9a78a,tale.cooking,available,32.49,32.49,high,low
 98910722-e5ef-4976-92a0-8a61a9e1cd3c,picaresque.cooking,available,33.98,43.98,high,medium,10,namecheap,,,08/09/2026 19:30
 71a238ea-ace7-4fa7-a935-46607a611039,pictorial.cooking,available,32.49,32.49,high,low,9,namesilo,,,23/08/2026 01:46
 b728fe9b-331a-4401-8a24-4ee2be837592,skittish.cooking,available,32.49,32.49,medium,low,8,namesilo,,,10/09/2026 09:48
-42342677-f74c-4215-8b9c-69aacdb64494,urge.cooking,available,32.49,32.49,high,low,4,namesilo,,,
+42342677-f74c-4215-8b9c-69aacdb64494,urge.cooking,available,26.08,26.08,high,low,4,spaceship,,,28/09/2026 19:09
+efc38076-ab58-4fd3-9364-f060a79a44c1,coyote.cooking,available,33.98,43.98,high,low,6,namecheap,,,28/09/2026 13:37
 2ce649cd-206f-47bc-afb3-feee68747d41,foursquare.cooking,available,32.49,32.49,high,low,10,namesilo,,,18/08/2026 13:48
 43f9758e-1501-4238-aa01-2e71429e0495,ahmad.cooking,available,32.49,32.49,high,low,5,namesilo,,,27/09/2026 07:37
 73f56bef-643f-48cd-bdca-40c24fabe6c1,violation.cooking,available,32.49,32.49,high,low,9,namesilo,,,
@@ -264,12 +284,14 @@ b728fe9b-331a-4401-8a24-4ee2be837592,skittish.cooking,available,32.49,32.49,medi
 ba8d65e5-1dfb-485a-80b5-c05e60f4b57f,shavian.cooking,available,32.49,32.49,high,medium,7,namesilo,,,10/09/2026 06:09
 2395ed33-2899-4d20-95b1-075c11e9df9b,site.cooking,available,32.49,32.49,high,medium,4,namesilo,,,25/09/2026 23:13
 447ef4cd-cf2c-4dde-8da3-2ff3481f48d0,ariose.cooking,available,32.49,32.49,medium,low,6,namesilo,,,06/08/2026 19:19
+dd33b07f-38cd-4c14-a127-66e9d6c45b7c,hawkins.cooking,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 09:24
 7d052e71-1ea9-4f87-833e-90f55646eb34,ruly.cooking,available,33.98,43.98,high,medium,4,namecheap,,,09/09/2026 19:21
 0bfc1762-9d78-4337-a817-360646aa635c,postwar.cooking,available,32.49,32.49,medium,low,7,namesilo,,,09/09/2026 00:42
 902a0f58-296b-4443-a6af-e5866fa17636,sale.cooking,available,43.98,,high,low,4,namecheap,,,
 a901589e-9275-4ce8-b389-2b0ed8ac675c,detail.cooking,available,32.49,32.49,medium,low,6,namesilo,,,27/09/2026 09:10
 d020bc7b-0ad9-4d70-a9a4-cd83b7cdc9f6,cobalt.cooking,available,32.49,32.49,high,low,6,namesilo,,,20/09/2026 22:41
 c579318b-0c05-4729-8d38-16ae0ba1acfc,fey.cooking,premium,47.2,29.5,medium,low,3,namesilo,,,16/08/2026 03:39
+2bc9c2df-6a9d-46d0-8283-21ab8401168c,marley.cooking,available,26.08,26.08,medium,low,6,spaceship,,,29/09/2026 00:11
 987a6b10-a87d-40e0-9105-40896c86707e,livelong.cooking,available,32.49,32.49,high,low,8,namesilo,,,24/08/2026 07:57
 043eb675-fb82-4e51-8511-87f829859bff,nettled.cooking,available,32.49,32.49,medium,low,7,namesilo,,,
 e6f32981-02f5-4985-aea1-b4609898be29,quick.cooking,premium,242,29.5,high,medium,5,namesilo,,,21/09/2026 23:09
@@ -279,6 +301,7 @@ d2b2a65d-1377-4a50-9fcf-fb1b2f28c5c8,ship.cooking,available,32.49,32.49,high,low
 18b50c5d-b30a-4678-8d69-5d6183c8761d,captain.cooking,available,32.49,32.49,high,low,7,namesilo,,,
 2fba5b2b-e5db-4182-9bad-c2ae18b56743,emmet.cooking,available,32.49,32.49,medium,low,5,namesilo,,,19/09/2026 12:15
 4db073ff-a88b-4c8e-a268-d7c0f73b4960,wino.cooking,available,33.98,43.98,medium,low,4,namecheap,,,14/08/2026 20:26
+51092950-4e08-45ca-83e1-c00a648a51cd,sentiment.cooking,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 15:00
 8b9b6a35-7108-48db-811a-1c0a52ed88f0,untwisted.cooking,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 21:56
 258cde2d-775a-413f-b850-85d15eaf758b,dystopian.cooking,available,32.49,32.49,medium,low,9,namesilo,,,14/08/2026 22:10
 6379163a-f3ec-4b27-8278-6f67df5b51e3,bacchanal.cooking,available,32.49,32.49,high,low,9,namesilo,,,08/08/2026 04:14
@@ -286,15 +309,19 @@ d2b2a65d-1377-4a50-9fcf-fb1b2f28c5c8,ship.cooking,available,32.49,32.49,high,low
 798b06cb-0a9b-47b2-bc2e-c84f625f1d95,eliot.cooking,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 05:27
 766a981b-886d-45ca-a75a-63307ac1cd06,manhattan.cooking,premium,242,29.5,high,low,9,namesilo,,,25/09/2026 23:31
 dd474315-26a3-48ab-94a7-d99d07b544d2,atavistic.cooking,available,32.49,32.49,low,low,9,namesilo,,,07/08/2026 12:55
+6ae2c4cd-61eb-462f-8b6f-5adfd369bda5,sousa.cooking,available,33.98,43.98,medium,low,5,namecheap,,,28/09/2026 19:33
 99eaaa50-1983-4321-9c38-236493da3df3,messaging.cooking,available,32.49,32.49,high,low,9,namesilo,,,25/09/2026 03:29
 338a2788-8358-4549-b6c1-3057e62f88ee,foggy.cooking,available,32.49,32.49,medium,low,5,namesilo,,,10/08/2026 16:21
 58ec4936-4e15-4a0a-8e25-10ccf3b436bd,agilely.cooking,available,33.98,43.98,medium,low,7,namecheap,,,13/09/2026 18:16
+eebd6ac2-534b-4196-9f00-024660ea8555,garza.cooking,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 21:33
 9fab1538-0d51-4346-88c9-03a0baf7c615,signaling.cooking,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 08:00
+b8bb0182-2b28-41eb-ab0a-9b4411d3e184,escaping.cooking,available,26.08,26.08,high,low,8,spaceship,,,28/09/2026 21:14
 28ea564c-49f2-4f1b-8295-68ca09976d6a,finn.cooking,premium,83,26.08,high,low,4,spaceship,,,28/09/2026 05:42
 c9afdfe5-ab46-4dc1-80ff-407bea18e153,shave.cooking,available,32.49,32.49,high,low,5,namesilo,,,08/09/2026 20:41
 812ce261-1724-484b-a962-5d2fb1f342df,cytolytic.cooking,available,46.99,46.99,medium,low,9,name.com,,,13/08/2026 14:42
 39f05a7e-3b98-47d9-a2f8-2f6919f89715,negligible.cooking,available,32.49,32.49,medium,low,10,namesilo,,,03/09/2026 15:08
 b9e09197-cb49-4e53-b8cd-9b6a6a5df20b,fed.cooking,premium,96,29.5,high,low,3,namesilo,,,25/09/2026 22:43
+d66dbb18-38d7-43cd-b608-ba9e06266d97,roxbury.cooking,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 12:20
 e2124a2c-35c5-4ded-9001-783321773f2a,eighteenth.cooking,available,32.49,32.49,high,low,10,namesilo,,,
 e98a1d89-4175-4eb7-b6df-c1413323364e,subalpine.cooking,available,32.49,32.49,medium,low,9,namesilo,,,
 c9ea873a-c7d5-48ea-b2d1-489f20ebfde2,babies.cooking,available,32.49,32.49,high,low,6,namesilo,,,
@@ -315,7 +342,7 @@ a0d2a4d8-4eed-4a83-8ac3-ff85b2fd14a1,rounded.cooking,available,32.49,32.49,high,
 d4081485-bfd2-48a1-8e34-c5805d14f13c,strangers.cooking,available,32.49,32.49,medium,low,9,namesilo,,,
 b9ebb22d-80b9-4811-929e-8085a863f46f,arbalest.cooking,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 00:33
 cfb705b1-d570-4b54-a2be-bfa56b63dbd9,harmony.cooking,premium,242,29.5,high,low,7,namesilo,,,
-46ae1a0f-ec9d-471c-b8ed-a70ab8452ba5,informally.cooking,available,32.49,32.49,medium,low,10,namesilo,,,
+46ae1a0f-ec9d-471c-b8ed-a70ab8452ba5,informally.cooking,available,26.08,26.08,medium,low,10,spaceship,,,28/09/2026 14:09
 ddf612ec-102a-4122-b50b-97760355a2ce,responsive.cooking,available,32.49,32.49,high,low,10,namesilo,,,22/09/2026 06:49
 55921168-ff10-4b5f-8e1e-c7fc89c13ba4,tertiary.cooking,available,32.49,32.49,medium,low,8,namesilo,,,
 eeb0c4f9-66fc-4e22-8673-4b4d05e2f793,catechetic.cooking,available,33.98,43.98,medium,low,10,namecheap,,,11/08/2026 21:25
@@ -330,12 +357,14 @@ dc927d34-c639-4237-95a9-96911e9778b3,galicia.cooking,available,32.49,32.49,high,
 6bd31ef5-0b84-4822-9e7f-9097c69cf8be,feature.cooking,available,32.49,32.49,high,low,7,namesilo,,,23/09/2026 13:48
 8645c7ae-b45c-43e9-990f-0ab1359d49d3,estimation.cooking,available,32.49,32.49,high,low,10,namesilo,,,19/09/2026 22:26
 b2414378-cf14-41e1-984b-f4a95e4901a8,admittedly.cooking,available,33.98,43.98,medium,low,10,namecheap,,,11/09/2026 20:31
+222d6aba-fcdb-4192-b8d6-d67e76be2062,periods.cooking,available,25.2,25.2,medium,low,7,cloudflare,,,28/09/2026 18:01
 e9acec75-cb3b-4523-a74c-06475c983ffd,fast.cooking,premium,242,29.5,high,medium,4,namesilo,,,24/09/2026 04:50
 476fa155-8c35-465f-96e4-8ec36b6a23af,cordially.cooking,available,32.49,32.49,medium,low,9,namesilo,,,14/09/2026 08:43
 6dd5d296-156e-4c3b-b366-3aee5bda3387,companies.cooking,available,26.08,26.08,high,low,9,spaceship,,,28/09/2026 04:54
 8e6de207-2bf6-49f0-8b45-ea963487c33c,benzol.cooking,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 08:53
 ea358d0a-e070-4067-9d17-03b42de1fba9,disturbing.cooking,available,32.49,32.49,medium,low,10,namesilo,,,14/08/2026 13:16
 a41f5770-355d-4e64-9866-00dc3bfd4502,conclusive.cooking,available,33.98,43.98,high,low,10,namecheap,,,23/09/2026 19:11
+27cc58e2-6e9f-4891-ba52-e89a8f69e7e4,wiggins.cooking,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 16:37
 95986244-0d56-4639-8831-9086b290a1cf,ubiquitous.cooking,available,32.49,32.49,high,low,10,namesilo,,,04/09/2026 13:54
 3aa5aab5-23e9-40e6-8cb8-34e48b74bb80,metastable.cooking,available,32.49,32.49,medium,low,10,namesilo,,,24/08/2026 21:47
 b115b16e-7f2b-4203-a31a-b1ee4ec095fd,fireball.cooking,available,32.49,32.49,high,low,8,namesilo,,,21/09/2026 22:35
@@ -344,9 +373,10 @@ b27d67be-1cf1-4d85-812e-164563ca9cd8,resolution.cooking,available,32.49,32.49,hi
 21d3d8eb-69ec-442b-b4ad-78a7c99b654a,confidant.cooking,available,32.49,32.49,high,low,9,namesilo,,,22/08/2026 08:30
 14a4be42-11b5-4522-9811-cd6190b4281d,apprentice.cooking,available,32.49,32.49,high,low,10,namesilo,,,19/09/2026 22:15
 1ed6bdc8-fe42-4224-bfbf-ad498684858f,years.cooking,available,43.98,,high,low,5,namecheap,,,
+a9be366e-6c57-435f-aac1-a3f6ef77cb46,suffers.cooking,available,25.2,25.2,low,low,7,cloudflare,,,28/09/2026 17:03
 e8456505-2766-4a67-a39a-dd735fde50f3,proteins.cooking,available,32.49,32.49,medium,low,8,namesilo,,,08/09/2026 07:13
 da41af3a-5a69-472b-a9d0-c3b59336471a,stain.cooking,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 16:55
-6a9e5ff7-10b8-4ec5-aaff-2117e4176168,bit.cooking,premium,242,29.5,high,medium,3,namesilo,,,
+6a9e5ff7-10b8-4ec5-aaff-2117e4176168,bit.cooking,premium,218.86,27.82,high,medium,3,porkbun,,,29/09/2026 02:55
 aad6d09e-e8e7-4d18-badb-5b9c05f8b42e,altering.cooking,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 14:47
 2933f8dd-89c0-48fa-b679-13508cbd9735,kathy.cooking,premium,83,26.08,high,low,5,spaceship,,,27/09/2026 19:14
 cc9f14fd-2828-4083-844d-d776edff41e9,florid.cooking,available,32.49,32.49,medium,low,6,namesilo,,,07/08/2026 17:26
@@ -355,6 +385,7 @@ c8ce34d5-baf3-45af-a1ab-69f86fef810e,distress.cooking,available,32.49,32.49,high
 d7213c39-4a88-4484-92f8-72933fc6faff,quixotic.cooking,available,33.98,43.98,medium,low,8,namecheap,,,09/09/2026 09:04
 6bef98c1-1c84-4ab8-81fe-8237dcfa9a6b,alvin.cooking,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 13:49
 d5ffc948-af24-4f9d-b126-a9bf6cf9e549,sculpted.cooking,available,33.98,43.98,high,low,8,namecheap,,,20/08/2026 18:50
+34fab917-9eee-444d-afb3-5767ebbcf071,exceptions.cooking,available,26.26,26.26,low,low,10,porkbun,,,28/09/2026 23:04
 7205cead-009c-436b-9485-ea56389f49e8,bombastic.cooking,available,33.98,43.98,high,low,9,namecheap,,,10/08/2026 18:01
 fed4182f-08d5-4850-b32b-f6a7b86af0f6,awol.cooking,available,32.49,32.49,high,low,4,namesilo,,,08/08/2026 01:46
 f157ce8d-5713-42b5-8b0b-9baa88052b6d,agonist.cooking,available,33.98,43.98,medium,low,7,namecheap,,,17/09/2026 18:56
@@ -366,6 +397,7 @@ f191ee04-cef0-4a21-9949-7b8f5a4bc801,boreal.cooking,available,33.98,43.98,high,l
 cf5ccb47-c058-4775-bf52-46f0ab5d1514,phenomenal.cooking,available,32.49,32.49,high,low,10,namesilo,,,08/09/2026 18:46
 22e22a12-ba58-4c67-a807-2a25391e246f,bitterness.cooking,available,32.49,32.49,medium,low,10,namesilo,,,17/09/2026 03:08
 ab0633d0-4728-406e-8b17-9d704c995ee3,waco.cooking,available,32.49,32.49,high,low,4,namesilo,,,28/09/2026 06:51
+9c1388f9-e2d1-49d2-926c-601ddba9729c,pierson.cooking,available,32.49,32.49,medium,low,7,namesilo,,,28/09/2026 23:01
 b3c01f12-6d90-49fd-9cc1-45b4f38989cc,als.cooking,premium,47.2,29.5,high,low,3,namesilo,,,18/09/2026 14:14
 13e385de-f8f2-4a02-8a4c-6a836724feeb,epidermic.cooking,available,46.99,46.99,medium,low,9,name.com,,,13/08/2026 13:09
 d57ed32f-f985-402b-9664-19076ec2565d,impeccable.cooking,available,32.49,32.49,high,low,10,namesilo,,,18/08/2026 00:09
@@ -373,6 +405,7 @@ d57ed32f-f985-402b-9664-19076ec2565d,impeccable.cooking,available,32.49,32.49,hi
 fc801f11-02f2-410e-8532-ecc30ba9bd03,factorial.cooking,available,33.98,43.98,high,low,9,namecheap,,,17/08/2026 20:29
 1b39ab46-df2c-4d58-b0e9-9a933dcf742a,modernized.cooking,available,32.49,32.49,high,low,10,namesilo,,,19/09/2026 17:17
 ccbd1cfe-d11e-4a14-b27b-b55bd6c1f661,eureka.cooking,available,32.49,32.49,high,medium,6,namesilo,,,24/09/2026 17:33
+68eb6171-b99a-4cce-b624-71cb884cb175,templeton.cooking,available,26.26,26.26,medium,low,9,porkbun,,,28/09/2026 22:24
 d60034a4-5ae1-4cdb-a258-e8e3fdd74e4b,pliability.cooking,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 07:42
 5fcd0c1e-4dd6-4f86-840e-0fb8d2fcea90,failure.cooking,available,33.98,43.98,high,low,7,namecheap,,,25/09/2026 22:41
 a1779809-0640-4272-9f04-a5e38fa442dd,murphy.cooking,premium,104,32.5,high,low,6,namecheap,,,25/09/2026 07:49
@@ -388,6 +421,7 @@ f536fc5d-394f-4799-81bb-c6c9a2ebdb56,camper.cooking,available,,,high,high,6,,,,
 96453cd1-70d3-42af-a446-ae3892dbcc9b,jazz.cooking,available,32.49,32.49,high,low,4,namesilo,,,
 581d1495-5f79-4126-bf24-e971c92e67b5,fingers.cooking,available,32.49,32.49,medium,low,7,namesilo,,,
 1d4b611e-10f9-47dd-aadd-91415fc10fa2,over.cooking,premium,96,29.5,high,low,4,namesilo,,,22/09/2026 00:56
+a0f865c1-6e23-41a9-8526-f995b4873dce,segal.cooking,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 19:20
 a778a208-ce54-49d7-8fae-0271f0e5b50c,seals.cooking,available,32.49,32.49,high,low,5,namesilo,,,
 a97fcfa6-725d-4297-b825-7430016c64d0,walden.cooking,available,32.49,32.49,medium,low,6,namesilo,,,27/09/2026 08:12
 1d542508-fb9d-46c1-8ceb-1a2b1c495b4d,luculent.cooking,available,32.49,32.49,medium,low,8,namesilo,,,24/08/2026 10:52
@@ -397,6 +431,7 @@ e57b4ddc-e119-4116-80b7-7fe131577426,abide.cooking,available,43.98,,high,low,5,n
 866e7098-4312-4f5b-993f-3d968fef0928,cabins.cooking,available,32.49,32.49,medium,low,6,namesilo,,,20/09/2026 12:16
 933610c6-3a4b-4c5c-bb39-949a6f80a8e6,cfo.cooking,premium,47.2,29.5,high,low,3,namesilo,,,24/09/2026 13:41
 fb496f93-44b5-4457-8f6b-b3f0c98f1798,thrill.cooking,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 05:48
+7f55c3e3-7beb-4196-9aae-1b3fcd6f018a,reactor.cooking,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 10:36
 d6bd2735-be35-4692-8910-928adad0381f,aphis.cooking,available,32.49,32.49,medium,low,5,namesilo,,,19/09/2026 17:05
 aeed6110-fab0-452a-bb32-3d0a0a1ab3a1,angularity.cooking,available,32.49,32.49,medium,low,10,namesilo,,,19/09/2026 07:43
 62faa1f2-ec28-4df0-8dbc-9c30629811bc,vestigial.cooking,available,32.49,32.49,medium,low,9,namesilo,,,13/09/2026 04:54
@@ -429,6 +464,7 @@ bb2eff01-cbcc-4dbd-97dc-cb95095c9ddd,applied.cooking,available,32.49,32.49,high,
 e88c8c84-2c08-4fa6-91ba-bee2e2bdae08,polish.cooking,premium,96,29.5,high,low,6,namesilo,,,27/09/2026 04:22
 2be16764-f378-4774-a29f-8779e20bceda,earn.cooking,available,43.98,,high,low,4,namecheap,,,
 514fc518-f2f1-4230-99f0-ea6f23331e08,clarkson.cooking,available,32.49,32.49,medium,low,8,namesilo,,,27/09/2026 01:50
+7764ea66-409c-4232-a329-532d713722fa,muriel.cooking,available,32.49,32.49,medium,low,6,namesilo,,,28/09/2026 12:06
 200c0c12-408d-4f32-b3c8-61cbdd604fdb,totipotent.cooking,available,33.98,43.98,medium,low,10,namecheap,,,11/09/2026 18:12
 ef02cb88-23d7-4f76-b28d-156f484b7a22,exultant.cooking,available,32.49,32.49,high,low,8,namesilo,,,17/08/2026 19:42
 a8306a80-50c0-43d7-b795-cbe9b93228ea,shuttle.cooking,available,25.2,25.2,high,low,7,cloudflare,,,27/09/2026 15:53
@@ -439,7 +475,7 @@ a0a4c8f7-f8ad-49ea-a04e-f83a72c098b4,bulb.cooking,available,32.49,32.49,high,low
 a13bab55-0506-4c6a-9842-3976a44a3fb7,eiffel.cooking,available,32.49,32.49,medium,low,6,namesilo,,,18/09/2026 05:59
 17566ef6-935d-4c70-9fb3-9506dd3740dc,purau.cooking,available,32.49,32.49,medium,low,5,namesilo,,,21/09/2026 22:02
 6c66040a-d75f-47e9-8cdf-1306ec3a0134,cone.cooking,available,32.49,32.49,high,low,4,namesilo,,,
-40dac5c8-fef2-4c5f-8a85-252fdaa06410,apparel.cooking,available,43.98,,high,low,7,namecheap,,,
+40dac5c8-fef2-4c5f-8a85-252fdaa06410,apparel.cooking,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 21:48
 bcd0d145-f3bf-46bb-bc35-364a4f81931b,townsend.cooking,available,32.49,32.49,high,low,8,namesilo,,,25/09/2026 06:09
 44e32e50-95eb-4099-b6a0-fe05fbf7b98c,weighted.cooking,available,32.49,32.49,high,low,8,namesilo,,,13/09/2026 10:08
 ade9d2f2-79bd-4258-984a-6b46b9e33a20,egotistic.cooking,available,33.98,43.98,medium,low,9,namecheap,,,12/08/2026 19:55
@@ -463,6 +499,7 @@ c321e465-1ae5-4a82-95c6-e09c3ca1edce,model.cooking,available,26.08,26.08,high,me
 7125a71f-3a46-4f83-9067-764e70be1f4d,whips.cooking,available,32.49,32.49,medium,low,5,namesilo,,,17/09/2026 19:42
 7fa0b2b1-b90a-4a02-a091-615f78f88a69,algorism.cooking,available,33.98,43.98,medium,low,8,namecheap,,,18/09/2026 07:14
 9051334f-1229-4cdf-872b-e61e047d983d,halting.cooking,available,32.49,32.49,medium,low,7,namesilo,,,13/08/2026 07:02
+9c67436b-b65e-463d-a206-7edcf645e4db,greeks.cooking,available,26.97,26.97,medium,low,6,dynadot,,,28/09/2026 22:45
 2913d11a-1e4d-4554-b1b1-6b09ca51cdc7,pagan.cooking,available,32.49,32.49,medium,low,5,namesilo,,,18/08/2026 21:57
 64357239-8e0c-43e8-9d01-97d1dee03984,ashram.cooking,available,32.49,32.49,high,low,6,namesilo,,,20/09/2026 13:58
 d1936c98-571d-42ea-90c7-ee3310e11d11,infancy.cooking,available,32.49,32.49,high,low,7,namesilo,,,21/09/2026 13:47
@@ -495,6 +532,7 @@ f116b741-73d1-4e47-9e19-6f3b02efe520,reddened.cooking,available,32.49,32.49,high
 5473f23c-4617-46d6-8667-485350a6c005,willis.cooking,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 10:53
 8608c579-616f-4e03-9783-33c0f3bec8d9,resentful.cooking,available,32.49,32.49,medium,low,9,namesilo,,,09/09/2026 14:48
 8ae67831-7c83-4f46-9f64-5c3c381aba15,rotten.cooking,available,32.49,32.49,high,low,6,namesilo,,,24/09/2026 01:35
+baefa6c9-6e6e-4763-aea6-627e0aa688d4,fema.cooking,available,26.97,26.97,medium,low,4,dynadot,,,29/09/2026 00:53
 7f04e5f9-c02c-41fe-97c4-3c23e3c90ae4,feelingly.cooking,available,33.98,43.98,medium,low,9,namecheap,,,14/09/2026 18:18
 9e20bab5-31c8-4c08-a655-7b3878320e06,sixteenth.cooking,available,32.49,32.49,high,low,9,namesilo,,,
 13f23ff9-90cc-4aff-85db-c10ae2868040,altitude.cooking,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 14:29
@@ -509,11 +547,13 @@ e2910947-36ba-454b-a087-64aee68d4262,welsh.cooking,available,32.49,32.49,high,lo
 5744fa56-9273-4149-b597-6b1c6a774637,pyramidal.cooking,available,32.49,32.49,medium,low,9,namesilo,,,09/09/2026 06:55
 1fa8097a-f676-445d-b9b3-8fed63580518,greasy.cooking,premium,50,46.99,high,low,6,name.com,,,20/08/2026 19:35
 e49a0acc-07f4-4e6b-b784-1579aacf0c93,fascinate.cooking,available,32.49,32.49,high,low,9,namesilo,,,
+e3859fc6-f4d6-483b-9733-ca638d074a83,investigated.cooking,available,25.2,25.2,medium,low,12,cloudflare,,,29/09/2026 00:03
 759c1bde-27cb-4aa7-b43a-2c4f7cf11a2a,drastic.cooking,available,33.98,43.98,high,low,7,namecheap,,,14/08/2026 18:27
 a5fb8c6c-ed3e-4390-a6f4-b204330541b1,apologise.cooking,available,32.49,32.49,high,low,9,namesilo,,,
 5c23cb51-0dc7-4d6d-b138-d0ebe9d7013e,soundproof.cooking,available,32.49,32.49,high,medium,10,namesilo,,,10/09/2026 14:44
 caed2edf-c525-4ec6-a05a-66606dee4f2d,tbd.cooking,premium,50,,high,low,3,name.com,,,
 76bff33b-4370-441a-bf6d-f7b6c0461d43,tone.cooking,available,32.49,32.49,high,low,4,namesilo,,,
+47bee1b5-54fe-4fed-beb0-69e28001a5e9,celebrities.cooking,available,26.08,26.08,medium,low,11,spaceship,,,28/09/2026 23:49
 af866c98-5acf-4276-b541-30ea351d0b51,dicks.cooking,available,32.49,32.49,medium,low,5,namesilo,,,
 25bffb6d-f0e3-441f-8c7e-f98b416dade0,portland.cooking,premium,242,29.5,high,low,8,namesilo,,,
 9c430975-60df-4754-bc7a-3e25469e896d,cityfied.cooking,available,32.49,32.49,medium,low,8,namesilo,,,12/08/2026 08:49
@@ -536,20 +576,24 @@ bde2a53a-90ba-4b7f-a07f-cf5277e8ab49,brim.cooking,available,32.49,32.49,high,low
 dcb7f19c-ca65-40f4-8320-c15f8fb77369,joanne.cooking,available,26.08,26.08,high,low,6,spaceship,,,27/09/2026 19:17
 b8df0cfb-febb-4789-b6a9-c1cc068ad1a5,beguiled.cooking,available,32.49,32.49,medium,low,8,namesilo,,,09/08/2026 09:46
 ec3da44b-b12c-44bc-8ee5-f00e02084413,azactam.cooking,available,32.49,32.49,medium,low,7,namesilo,,,21/09/2026 10:59
-9ce5f947-340b-44ac-b951-3aeec029e381,ash.cooking,premium,96,29.5,high,low,3,namesilo,,,
+9ce5f947-340b-44ac-b951-3aeec029e381,ash.cooking,premium,96,29.5,high,medium,3,namesilo,,,28/09/2026 22:27
 ecd978c6-989e-4381-bf6c-5dc12fbda187,dominic.cooking,premium,96,29.5,high,low,7,namesilo,,,27/09/2026 03:45
 6a372f2e-f66f-409f-a4c2-012860b01261,amplifier.cooking,available,32.49,32.49,high,low,9,namesilo,,,18/09/2026 23:40
 e188f7ff-09db-4049-aaf5-eefeac08a4f1,public.cooking,available,33.98,43.98,high,medium,6,namecheap,,,27/09/2026 08:01
 a829276b-8ff4-4c2c-9a6e-932671acd9a9,definable.cooking,available,32.49,32.49,medium,low,9,namesilo,,,13/08/2026 23:28
+3bda82c8-6526-4d7f-b706-31ba7f9ca0a8,harlem.cooking,available,26.97,26.97,medium,low,6,dynadot,,,28/09/2026 10:00
 df1964dd-de58-4b04-bf37-5e57bdcbdd42,kane.cooking,available,32.49,32.49,high,low,4,namesilo,,,27/09/2026 07:59
 be7e3aa1-625b-4ee9-84e0-2f57eb138623,hassium.cooking,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 22:10
+176a3088-e880-4921-9534-195c247727df,brewster.cooking,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 11:34
 bca40fe8-81df-4f28-aaea-bd9142434ca6,bounteous.cooking,available,33.98,43.98,high,low,9,namecheap,,,09/08/2026 20:50
 dcc41c6d-b7ee-41de-813d-9e9d3541441a,forbidden.cooking,available,32.49,32.49,medium,low,9,namesilo,,,18/08/2026 10:59
 0e722b5b-cba0-443d-85f8-e0ed428d841f,wasted.cooking,available,33.98,43.98,medium,low,6,namecheap,,,22/09/2026 11:10
+f970f0f1-526d-435a-8ce5-26ee5560e89d,excuses.cooking,available,26.26,26.26,medium,low,7,porkbun,,,28/09/2026 23:11
 00ab6edc-5e35-412c-ba6b-eff1ed461dd3,compatibly.cooking,available,32.49,32.49,medium,low,10,namesilo,,,14/09/2026 07:43
 7532f5a0-4c24-431c-8928-af8a8bd0ff2c,opt.cooking,premium,47.2,29.5,high,low,3,namesilo,,,
 8ad30a61-5b6f-4c91-bfd1-e2d8d27dc206,backplate.cooking,available,32.49,32.49,medium,low,9,namesilo,,,21/09/2026 15:46
 c0cd9cd5-15a1-4a3c-b443-6c4dff4eb359,bellow.cooking,available,33.98,43.98,medium,low,6,namecheap,,,23/09/2026 06:17
+c0b0b315-de93-493b-9ded-f1cc984bc8aa,robb.cooking,available,32.49,32.49,medium,low,4,namesilo,,,28/09/2026 12:14
 51569a72-de50-4787-9610-03e6adcc4016,saltlike.cooking,available,33.98,43.98,high,medium,8,namecheap,,,09/09/2026 20:58
 59df5293-9d73-4269-bd1a-4fd03712e2f5,shovels.cooking,available,46.99,46.99,medium,low,7,name.com,,,20/09/2026 10:22
 8933c34a-31ad-4080-bfac-04d9402f0eef,variations.cooking,available,33.98,43.98,medium,low,10,namecheap,,,18/09/2026 20:13
@@ -565,7 +609,7 @@ cdfcd827-ce65-48c3-8acb-b93e28413447,witless.cooking,available,33.98,43.98,mediu
 ae43b023-c6b0-471b-94b8-b4ee79134218,aldose.cooking,available,32.49,32.49,high,low,6,namesilo,,,18/09/2026 04:38
 48696232-784d-4af9-8c69-79994590344e,larder.cooking,available,32.49,32.49,high,low,6,namesilo,,,11/08/2026 11:56
 7d1df623-70df-4bf7-90f3-7d1cf4450b4a,cinematic.cooking,available,32.49,32.49,high,low,9,namesilo,,,12/08/2026 08:13
-b84a2f07-f90b-4948-a407-1c070db034e7,therapy.cooking,available,32.49,32.49,high,low,7,namesilo,,,26/09/2026 00:51
+b84a2f07-f90b-4948-a407-1c070db034e7,therapy.cooking,available,25.2,25.2,high,low,7,cloudflare,,,28/09/2026 22:53
 00b2a9e5-a04d-4a04-9192-03aa7acef885,scrubbed.cooking,available,25.2,25.2,medium,low,8,cloudflare,,,27/09/2026 18:56
 0f0c1932-0f57-4ca0-8f0e-97d46026d340,grasping.cooking,available,32.49,32.49,medium,low,8,namesilo,,,07/08/2026 22:04
 ce4bf44f-2cd7-4f99-9672-83e12d8e223a,boarded.cooking,available,32.49,32.49,high,low,7,namesilo,,,
@@ -577,6 +621,7 @@ fa50d4a8-3ce3-4a24-878b-a9b0f795618a,sportsperson.cooking,available,33.98,43.98,
 cbd67eea-ae27-4a4a-be13-2306eac4285e,reptile.cooking,available,32.49,32.49,high,low,7,namesilo,,,09/09/2026 14:41
 81eebcbf-ae01-471a-89c6-e83282d116b0,upton.cooking,available,25.2,25.2,medium,low,5,cloudflare,,,27/09/2026 11:29
 26bc966f-143d-4de5-aecb-addcf6d1ee1f,warburg.cooking,available,32.49,32.49,medium,low,7,namesilo,,,16/09/2026 19:40
+87fbedb2-bc72-4ce5-a980-8e73133229c7,albright.cooking,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 12:24
 338c14ce-9196-484f-8c34-cbc2aea13659,sandpapery.cooking,available,33.98,43.98,high,medium,10,namecheap,,,09/09/2026 21:13
 d630020e-7191-4fca-9e11-f76508b7ed2e,conga.cooking,available,32.49,32.49,high,low,5,namesilo,,,24/09/2026 17:17
 bf261f10-feb3-4dbe-8045-47e7df647f6a,saturday.cooking,available,32.49,32.49,high,low,8,namesilo,,,
@@ -592,9 +637,9 @@ a2d33146-faf5-4d4a-8cd2-8c4f16849aad,cypriote.cooking,available,46.99,46.99,medi
 7a0bd84c-a5cf-4d97-acf8-9f38dc708e51,cervical.cooking,available,32.49,32.49,high,low,8,namesilo,,,12/08/2026 00:58
 6c6a65a1-7d26-49ae-b90a-6da1df5b1e4f,composure.cooking,available,32.49,32.49,high,low,9,namesilo,,,11/08/2026 14:55
 73a03b3d-7339-4f48-bd72-31c1fe27bd96,titular.cooking,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 16:32
-26865586-9319-40b1-bc67-a16c4ccc68e6,agreement.cooking,available,32.49,32.49,high,low,9,namesilo,,,16/09/2026 22:51
+26865586-9319-40b1-bc67-a16c4ccc68e6,agreement.cooking,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 08:10
 6812979a-4fbf-43b7-9824-7902552c3477,henceforth.cooking,available,32.49,32.49,medium,low,10,namesilo,,,15/09/2026 00:15
-8cde60e5-d434-420a-b23f-3131877432aa,grip.cooking,available,32.49,32.49,high,low,4,namesilo,,,
+8cde60e5-d434-420a-b23f-3131877432aa,grip.cooking,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 18:31
 51d141f0-eabc-4d3f-a178-361031aa037b,affiliated.cooking,available,32.49,32.49,high,low,10,namesilo,,,
 855c8b04-ebeb-4628-ab8e-cf0c2d87083a,uppercase.cooking,available,32.49,32.49,high,low,9,namesilo,,,25/09/2026 16:20
 1ac16cbf-9325-4c8a-9dd8-46651a58ef24,allegory.cooking,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 10:41
@@ -625,8 +670,9 @@ dd5d66d1-83d1-4351-8223-09d8e035d416,staggering.cooking,available,33.98,43.98,me
 61728b3b-b54f-4fed-8ab8-a8a000f7f774,turkish.cooking,premium,250,46.99,high,low,7,name.com,,,11/09/2026 21:18
 a0e6a0ac-b174-4e61-8ae3-4a80f6622486,polyhedral.cooking,available,32.49,32.49,medium,low,10,namesilo,,,08/09/2026 23:24
 0c0ba555-d736-4c68-8c8e-dacf93cc9ccd,pageant.cooking,available,25.2,25.2,high,low,7,cloudflare,,,28/09/2026 02:36
-0db464b4-a8c8-492c-9d7b-51d16e063d0e,utterly.cooking,available,32.49,32.49,high,low,7,namesilo,,,
+0db464b4-a8c8-492c-9d7b-51d16e063d0e,utterly.cooking,available,25.2,25.2,medium,low,7,cloudflare,,,28/09/2026 11:39
 5b678177-c2bf-48fb-9946-ab65d858816d,ironclad.cooking,available,32.49,32.49,high,low,8,namesilo,,,11/08/2026 02:30
+9b21967b-b486-4c1b-b335-f1eb49ea3b3e,rockets.cooking,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 13:30
 4c88d86d-f9fe-49de-84ff-c8b26e83ead0,archly.cooking,available,32.49,32.49,medium,low,6,namesilo,,,13/09/2026 20:39
 1e98ba0e-63e6-4b6e-b64a-bfaddbdc2708,secondhand.cooking,available,32.49,32.49,high,low,10,namesilo,,,10/09/2026 01:09
 1d361da6-d34d-4b40-a818-da0336932cd6,contest.cooking,available,32.49,32.49,high,low,7,namesilo,,,
@@ -648,16 +694,18 @@ be1962ee-75ec-4c19-8ae8-baa206abad79,gingery.cooking,available,32.49,32.49,high,
 9ea9666a-f653-4be8-8014-a7041feeca62,suffered.cooking,available,33.98,43.98,low,low,8,namecheap,,,27/09/2026 02:46
 a9aa8ea3-ec09-4a3b-bfaa-a89449b0df80,refresh.cooking,available,32.49,32.49,high,low,7,namesilo,,,
 911d15ba-96f7-4244-80e8-c2dd4ecfc53b,beachwear.cooking,available,33.98,43.98,high,low,9,namecheap,,,22/09/2026 19:10
+e9c62d6c-58b1-45cc-89c4-6b23d57a9c80,paso.cooking,available,26.08,26.08,medium,low,4,spaceship,,,29/09/2026 03:36
 6f4ec0cb-a970-43c6-8cc7-97e1f7c11917,adscript.cooking,available,32.49,32.49,medium,low,8,namesilo,,,
 7d054c77-4382-4891-aba1-cdb3cb2e867d,locomotor.cooking,available,32.49,32.49,medium,low,9,namesilo,,,24/08/2026 08:50
 5a3e65ee-9843-43ab-9c37-df9cd8573ac9,wolfram.cooking,available,32.49,32.49,high,medium,7,namesilo,,,20/09/2026 23:44
-5dadf847-4cc6-4541-bc14-44a96750c61c,schools.cooking,premium,242,29.5,high,low,7,namesilo,,,24/09/2026 00:37
+5dadf847-4cc6-4541-bc14-44a96750c61c,schools.cooking,premium,242,29.5,high,low,7,namesilo,,,28/09/2026 08:54
 fcea8b8c-7412-4e93-bb04-245bc7f412c5,uncharted.cooking,available,32.49,32.49,medium,low,9,namesilo,,,12/08/2026 02:53
 b8d053ae-e85e-4d4a-83ef-000badc0335d,upbound.cooking,available,32.49,32.49,medium,low,7,namesilo,,,12/09/2026 23:02
 2750a91f-1ac0-4ff6-a345-58516a9b8852,woeful.cooking,available,32.49,32.49,medium,low,6,namesilo,,,17/08/2026 16:46
-608c4c81-1075-4b78-b82f-a5e6ee0728a1,possibly.cooking,available,43.98,,high,low,8,namecheap,,,
-d2db66ae-2545-4f9c-9797-78ccbab71ab9,valued.cooking,available,32.49,32.49,high,low,6,namesilo,,,
+608c4c81-1075-4b78-b82f-a5e6ee0728a1,possibly.cooking,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 16:14
+d2db66ae-2545-4f9c-9797-78ccbab71ab9,valued.cooking,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 10:07
 b8c333e1-06a0-4396-84c9-b99f469fbaa1,affirmative.cooking,available,32.49,32.49,high,low,11,namesilo,,,
+1aa52d6d-69b6-49d2-8d6a-47c7bbe6ef56,prototype.cooking,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 14:03
 1d64eb9c-b8c6-4474-895d-71289dedf501,voidable.cooking,available,32.49,32.49,medium,low,8,namesilo,,,09/09/2026 14:47
 641061af-81ec-47e4-a917-3eee31cf10ba,judging.cooking,available,26.08,26.08,high,low,7,spaceship,,,27/09/2026 14:29
 8e782fe1-d33d-4023-a4c6-e9d17a8184f8,unhuman.cooking,available,32.49,32.49,medium,low,7,namesilo,,,14/08/2026 00:04
@@ -680,7 +728,9 @@ a6b4c5c2-770a-47a6-a8fd-eafd88ad4406,sofa.cooking,available,33.98,43.98,high,low
 f13860e0-86d3-49d2-9e22-49a211c6599f,shakespeare.cooking,available,32.49,32.49,high,low,11,namesilo,,,
 281dfa9b-7a0f-4e86-aff1-c3922a8a51fb,myself.cooking,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 12:53
 202f51d8-058b-408e-845a-2a9ab8550ec9,racer.cooking,available,32.49,32.49,high,low,5,namesilo,,,21/09/2026 07:11
+6bc95a3c-1d48-4209-ac4f-8192f6672fb8,dubai.cooking,premium,207.2,26.08,high,medium,5,spaceship,,,28/09/2026 13:55
 b6317d70-84f3-4e5a-b8af-0945b71c10b1,templates.cooking,available,32.49,32.49,medium,low,9,namesilo,,,18/09/2026 15:03
+471a3cf5-3828-4010-b14b-c9a07e6b7313,texture.cooking,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 20:37
 15ce5a93-0048-4b89-9f16-823ccf4d5a7c,thumbed.cooking,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 15:04
 f243adb8-4ae2-45a1-96e1-843aa0afb80f,eight.cooking,available,33.98,43.98,high,low,5,namecheap,,,21/09/2026 13:20
 42fa5ea5-575c-4fcb-8f36-cf912e0c6cf3,snicker.cooking,available,32.49,32.49,medium,low,7,namesilo,,,
@@ -693,7 +743,7 @@ f0415895-6725-409b-86bc-520bdb031302,caught.cooking,available,32.49,32.49,high,l
 9fa7f000-fb4c-4ae0-adb7-4f7e591f309f,badge.cooking,available,32.49,32.49,high,low,5,namesilo,,,19/09/2026 15:56
 43110067-275d-438a-885f-e37c5cf01378,bugbane.cooking,available,33.98,43.98,medium,low,7,namecheap,,,18/09/2026 20:09
 6af06a93-61ed-4742-adc8-4159c25e2f78,cheat.cooking,available,32.49,32.49,high,low,5,namesilo,,,12/08/2026 03:31
-3aca546b-c089-4717-8ec7-54fb47513c6a,guidance.cooking,available,33.98,43.98,high,low,8,namecheap,,,24/09/2026 02:39
+3aca546b-c089-4717-8ec7-54fb47513c6a,guidance.cooking,available,32.49,32.49,high,low,8,namesilo,,,28/09/2026 07:09
 c341760d-5fa0-452e-bb62-969bb5415c74,xxii.cooking,available,32.49,32.49,medium,low,4,namesilo,,,21/09/2026 12:40
 7112f72f-a6a7-4842-b421-bb1864392696,neighbor.cooking,available,32.49,32.49,high,low,8,namesilo,,,
 a5574810-e122-4d35-b9cc-02181770fcc2,antithesis.cooking,available,32.49,32.49,medium,low,10,namesilo,,,19/09/2026 15:11
@@ -701,6 +751,7 @@ a5574810-e122-4d35-b9cc-02181770fcc2,antithesis.cooking,available,32.49,32.49,me
 81b79f81-532d-41a2-8fec-7ae8b81d512b,glycogen.cooking,available,32.49,32.49,medium,low,8,namesilo,,,19/09/2026 08:46
 57cd7809-671e-4a9f-9e96-83c05f0fa299,clunky.cooking,available,32.49,32.49,medium,low,6,namesilo,,,12/08/2026 13:08
 f246f09c-20a0-4d35-af12-4c71fd2717f2,nonsuch.cooking,available,33.98,43.98,medium,low,7,namecheap,,,03/09/2026 20:15
+5f35318b-f8c8-425f-a048-0fc645eed18f,milton.cooking,available,26.97,26.97,high,low,6,dynadot,,,28/09/2026 10:12
 c4e6a137-981a-4c11-b015-84f93c1d809c,laotian.cooking,available,32.49,32.49,high,low,7,namesilo,,,22/08/2026 19:36
 62112f6c-9dfb-400c-ae1c-e000b6dbec84,reprint.cooking,available,32.49,32.49,high,low,7,namesilo,,,10/09/2026 04:03
 7956f063-c86d-4e1e-b168-4d3f786e15c8,neville.cooking,available,33.98,43.98,high,low,7,namecheap,,,25/09/2026 18:10
@@ -710,6 +761,7 @@ bfbb3bc4-9a55-411a-979f-63f20fd6c75e,order.cooking,resell,,,high,medium,5,Dreams
 5dbcb775-a9e0-442c-898a-f6a16c3e8d05,fictive.cooking,available,32.49,32.49,medium,low,7,namesilo,,,07/08/2026 07:55
 d70becdd-3ea1-4f56-b258-b54bf3a92465,anasazi.cooking,available,32.49,32.49,medium,low,7,namesilo,,,19/09/2026 03:16
 b97283fb-07e4-40f4-831a-76fb635ced75,agonizing.cooking,available,32.49,32.49,medium,low,9,namesilo,,,
+1cafe26c-7e06-47ba-b249-f90cdb8381c3,testified.cooking,available,25.2,25.2,medium,low,9,cloudflare,,,28/09/2026 18:16
 2c2b8c9f-2b55-49a5-8030-f8ef5974d5a9,stretches.cooking,available,32.49,32.49,medium,low,9,namesilo,,,18/09/2026 07:56
 efcd3778-7525-4c2b-89cc-e68234920e01,desecrated.cooking,available,32.49,32.49,medium,low,10,namesilo,,,14/08/2026 03:18
 060f380d-7415-4d4f-bd06-8bc2a384d4da,forum.cooking,premium,242,29.5,high,low,5,namesilo,,,
@@ -718,26 +770,32 @@ efcd3778-7525-4c2b-89cc-e68234920e01,desecrated.cooking,available,32.49,32.49,me
 5fecb536-2925-47d7-b5cf-69d4d893a40e,bigot.cooking,available,32.49,32.49,medium,low,5,namesilo,,,23/09/2026 15:20
 e6e22282-38fc-4955-b5e7-061dc66550d0,improvable.cooking,available,32.49,32.49,medium,low,10,namesilo,,,21/08/2026 23:14
 52c19661-26be-4ec9-9146-ba6422e30107,fortemente.cooking,available,32.49,32.49,medium,low,10,namesilo,,,18/08/2026 12:36
+ddda2b48-71ad-4beb-9fb1-ae36917c8962,sacrificed.cooking,available,26.08,26.08,low,low,10,spaceship,,,28/09/2026 17:16
 0926153a-99b8-4fdd-8995-46ecd73aae59,abnormally.cooking,available,32.49,32.49,medium,low,10,namesilo,,,13/09/2026 16:24
 4dd49cdc-2441-4eb9-b3fe-59b01553b866,whichever.cooking,available,32.49,32.49,medium,low,9,namesilo,,,
 1f48021b-eb53-4f26-9856-0cd0d70157bf,lizard.cooking,available,32.49,32.49,high,low,6,namesilo,,,
 b49c3713-956b-4b33-a060-b5293d00ead0,willard.cooking,available,32.49,32.49,medium,low,7,namesilo,,,25/09/2026 05:33
 77236b57-d80e-4b33-b311-4e61a3ce0e85,baccharis.cooking,available,32.49,32.49,medium,low,9,namesilo,,,21/09/2026 14:00
+5af4d754-b897-433b-bdeb-6690697aefe1,waltz.cooking,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 15:32
 60c929ff-ebfb-4db8-8898-590e77da4d9c,bartlett.cooking,available,32.49,32.49,high,low,8,namesilo,,,22/09/2026 09:19
+443a975d-7980-4ae4-af52-a269711103b5,essen.cooking,available,26.97,26.97,high,low,5,dynadot,,,28/09/2026 19:08
 89737ce1-57d2-4673-91bf-c661ced0e8c4,path.cooking,available,33.98,43.98,high,low,4,namecheap,,,25/09/2026 07:51
 89ff640c-9d73-4c0d-ac5c-f97437d2dbb7,pluperfect.cooking,available,32.49,32.49,medium,low,10,namesilo,,,08/09/2026 22:00
 45398562-02ad-4f78-ab34-1aaffad751b0,apoplexy.cooking,available,33.98,43.98,medium,low,8,namecheap,,,19/09/2026 19:09
 301b79eb-dde8-4d9e-9ea6-2060cb4555e9,markets.cooking,premium,83,26.08,high,low,7,spaceship,,,28/09/2026 04:32
-59dd37ac-cf97-4131-be37-28ea7d0467d7,currently.cooking,available,43.98,,high,low,9,namecheap,,,
+59dd37ac-cf97-4131-be37-28ea7d0467d7,currently.cooking,available,32.49,32.49,medium,low,9,namesilo,,,28/09/2026 14:29
 7cdcc377-742c-4a5d-a74b-4d9342e01ae3,shield.cooking,available,32.49,32.49,high,low,6,namesilo,,,27/09/2026 12:05
 91624f21-209b-4e57-86a3-914089d16f41,outmoded.cooking,available,32.49,32.49,medium,low,8,namesilo,,,14/08/2026 01:15
 1268ad06-f7bc-43ac-94c3-f973c9cfd839,obliquity.cooking,available,33.98,43.98,medium,low,9,namecheap,,,20/09/2026 18:47
 303a6243-5e3c-4349-b0df-688ba946c94d,infertile.cooking,available,32.49,32.49,medium,low,9,namesilo,,,22/08/2026 04:24
 7eec46dc-6ee0-422a-9a64-88e4c02cbb10,bereaved.cooking,available,32.49,32.49,low,low,8,namesilo,,,09/08/2026 15:03
 dd40355c-7f7a-480f-a0d5-66d0a554b610,jonson.cooking,available,46.99,46.99,medium,low,6,name.com,,,23/09/2026 07:26
+f373294a-798c-4648-b9ea-1dbc16849d97,charlotte.cooking,premium,220,26.97,high,low,9,dynadot,,,28/09/2026 18:41
 29a82f43-72b6-4513-9e29-04d56a7297b9,seekers.cooking,available,32.49,32.49,medium,low,7,namesilo,,,21/09/2026 07:32
 ad2cffd3-6ee5-4753-b1f6-b06dcd6bdee4,coefficient.cooking,available,43.98,,high,low,11,namecheap,,,
+b904e3cd-4842-4d21-9a67-714edcb32539,daley.cooking,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 11:42
 7e3b420a-f004-4327-85af-74740e19f498,effluent.cooking,available,32.49,32.49,medium,low,8,namesilo,,,15/08/2026 14:47
+2eb29fff-a8a5-494a-819a-f5c280c3c540,catastrophic.cooking,available,26.08,26.08,medium,low,12,spaceship,,,29/09/2026 03:09
 34abb331-0fe0-478b-91b8-7082d5712794,recovered.cooking,available,32.49,32.49,high,low,9,namesilo,,,13/08/2026 11:06
 05d2d068-783b-413e-8c6a-707bd18de0bf,fooling.cooking,available,32.49,32.49,high,low,7,namesilo,,,18/08/2026 10:35
 22af02b9-bf60-4fa1-9e07-499daf93a1b4,motivate.cooking,available,32.49,32.49,high,low,8,namesilo,,,27/09/2026 07:34
@@ -747,8 +805,9 @@ bce6e647-ccf9-40ee-bff2-4460ca679d99,histrion.cooking,available,32.49,32.49,medi
 bd023391-3f96-4baf-8610-dc16f35003b3,dodge.cooking,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 01:47
 6426df98-1ee9-4590-a4fc-21169fefc088,inductive.cooking,available,32.49,32.49,medium,low,9,namesilo,,,22/08/2026 03:29
 16a40a38-c90b-4230-a69d-4aef7a2a4054,drew.cooking,available,32.49,32.49,high,low,4,namesilo,,,25/09/2026 00:05
+252bfa4b-e97c-46b0-a936-f53474bc7341,fitzroy.cooking,available,25.2,25.2,medium,low,7,cloudflare,,,28/09/2026 23:19
 dbec9358-61c6-49eb-b701-2e81aaa30d5e,egoistic.cooking,available,33.98,43.98,medium,low,8,namecheap,,,15/08/2026 18:54
-1e0a0bc9-9726-4417-98a2-536a699bff80,wind.cooking,available,32.49,32.49,high,low,4,namesilo,,,
+1e0a0bc9-9726-4417-98a2-536a699bff80,wind.cooking,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 10:39
 79a1e80f-aa94-475a-b826-34d77e46ef82,rhomboid.cooking,available,32.49,32.49,medium,low,8,namesilo,,,09/09/2026 16:47
 83dbc1c2-261d-4d76-a2be-10c7fa7f0db8,profundity.cooking,available,33.98,43.98,medium,low,10,namecheap,,,16/09/2026 18:38
 5459d413-b35a-47c9-ac10-22f1c838e247,knockdown.cooking,available,32.49,32.49,medium,low,9,namesilo,,,22/08/2026 16:34
@@ -758,9 +817,11 @@ eb109ba4-f8f5-417e-bc6e-4c874ca9af3b,shuha.cooking,available,32.49,32.49,medium,
 5edba10b-b858-4638-8e01-468a4767a2e6,uml.cooking,premium,47.2,29.5,high,low,3,namesilo,,,
 c08f4750-b30a-4716-b12b-3c631008c1f5,cover.cooking,available,32.49,32.49,high,low,5,namesilo,,,22/09/2026 21:52
 79e20af9-2934-4d84-bd1d-e4f16b627860,bridal.cooking,available,32.49,32.49,high,low,6,namesilo,,,11/08/2026 03:53
+b3247ba1-69a5-4997-a7a8-19cc29fab348,wil.cooking,premium,41.6,26.08,medium,low,3,spaceship,,,28/09/2026 21:44
 5294a9a3-53db-4da3-9469-333e9cdeb15e,lugubrious.cooking,available,32.49,32.49,medium,low,10,namesilo,,,24/08/2026 11:04
 371b9f10-70fd-4278-88f8-e3291cbffbfe,calculated.cooking,available,32.49,32.49,high,low,10,namesilo,,,11/08/2026 13:58
 c049a79f-5424-4cfd-8ac1-a048611bedec,semester.cooking,available,33.98,43.98,high,low,8,namecheap,,,28/09/2026 06:43
+cc0b9767-9866-414f-abf0-e0f69dc2c0ec,louisiana.cooking,premium,,,high,low,9,,,,28/09/2026 10:17
 06f000e3-60e0-4ac2-9dd9-328c2566ca9c,bowery.cooking,available,32.49,32.49,high,medium,6,namesilo,,,10/08/2026 23:13
 fa7e1cd2-4533-4e5b-b784-fbc2e70524e0,hominid.cooking,available,32.49,32.49,medium,low,7,namesilo,,,21/08/2026 12:39
 acc7881d-12dc-43ac-92f5-beb306e69e22,abortive.cooking,available,32.49,32.49,medium,low,8,namesilo,,,
@@ -768,12 +829,13 @@ acc7881d-12dc-43ac-92f5-beb306e69e22,abortive.cooking,available,32.49,32.49,medi
 c521893d-fcb1-4c48-9310-c18a068ee0fc,friendless.cooking,available,32.49,32.49,medium,low,10,namesilo,,,18/08/2026 15:33
 90a03546-d336-4f28-a5a7-11467b3434f7,wimp.cooking,available,33.98,43.98,medium,low,4,namecheap,,,24/09/2026 19:54
 9ecc9078-dbff-4e38-a00d-648272655d53,soto.cooking,available,32.49,32.49,high,low,4,namesilo,,,27/09/2026 07:28
+41b81d19-aa57-46de-a788-791fcbba0f99,soe.cooking,premium,41.6,26.08,medium,low,3,spaceship,,,28/09/2026 21:29
 64a5c955-564c-433d-af16-79dff7d24010,allograft.cooking,available,32.49,32.49,medium,low,9,namesilo,,,18/09/2026 11:54
 23f2d1b9-2be8-441c-8b94-79b1241b98eb,bonney.cooking,available,33.98,43.98,medium,low,6,namecheap,,,23/09/2026 16:28
 85679237-c215-4135-bb2b-5a44b5271411,steely.cooking,available,32.49,32.49,medium,low,6,namesilo,,,10/09/2026 19:47
 af2ae758-4436-4cf2-b056-4682d3e876c7,audrey.cooking,premium,96,29.5,high,low,6,namesilo,,,25/09/2026 14:38
-18009e36-c668-4f1f-a61b-15e57a6d677f,loop.cooking,available,32.49,32.49,high,high,4,namesilo,,,
-d598c2d8-5338-4cb5-ae19-52c6f20b40a1,bars.cooking,available,32.49,32.49,high,low,4,namesilo,,,
+4d3e8ba8-0e08-4915-87cc-479e5ecee108,screenplay.cooking,available,25.2,25.2,high,low,10,cloudflare,,,28/09/2026 20:23
+d598c2d8-5338-4cb5-ae19-52c6f20b40a1,bars.cooking,available,32.49,32.49,high,low,4,namesilo,,,29/09/2026 01:17
 bebeaf22-5406-4603-a31a-0a048b335ed0,boolean.cooking,available,33.98,43.98,high,low,7,namecheap,,,10/08/2026 19:12
 1c1b207a-e432-4dd2-aec1-43cead985539,bend.cooking,available,32.49,32.49,high,low,4,namesilo,,,23/09/2026 07:40
 28f89f6a-6fb6-4f9e-a575-dc7bcc246241,chimp.cooking,available,33.98,43.98,high,low,5,namecheap,,,24/09/2026 14:40
@@ -784,7 +846,7 @@ bebeaf22-5406-4603-a31a-0a048b335ed0,boolean.cooking,available,33.98,43.98,high,
 01108e09-0c0c-494b-8863-0f684fc1c320,acknowledged.cooking,available,43.98,,high,low,12,namecheap,,,
 97e901ee-6780-46c4-9996-0b8053e391f2,overhead.cooking,available,32.49,32.49,high,low,8,namesilo,,,26/09/2026 03:30
 e21f22dd-ffad-4b7f-8663-c7594f2f2e39,correlate.cooking,available,32.49,32.49,high,low,9,namesilo,,,23/09/2026 23:49
-3df68781-61bc-4628-88e2-e32f02c1623b,block.cooking,available,32.49,32.49,high,low,5,namesilo,,,
+3df68781-61bc-4628-88e2-e32f02c1623b,block.cooking,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 23:15
 f9f4f050-af69-4f55-adfc-2388bea4e715,vigorous.cooking,available,32.49,32.49,high,low,8,namesilo,,,13/09/2026 05:44
 8d76a98e-bce1-4c5c-a1fe-f5a9468c25c3,hammered.cooking,available,32.49,32.49,medium,low,8,namesilo,,,20/08/2026 22:59
 81a11cbb-0d0e-4512-b54d-387d65703b6c,learned.cooking,available,33.98,43.98,high,low,7,namecheap,,,23/09/2026 19:31
@@ -794,7 +856,8 @@ edc43284-c6a1-4c75-9303-cb5421f8c672,aquavit.cooking,available,33.98,43.98,mediu
 21d3a730-bb6b-40ca-8a99-fe05fd5b002e,regularly.cooking,available,32.49,32.49,medium,low,9,namesilo,,,15/09/2026 17:25
 25f13d1b-e730-4d05-8e65-687fad6d251a,baic.cooking,available,33.98,43.98,medium,low,4,namecheap,,,21/09/2026 18:51
 908e413f-e534-43ab-848b-4cc91ae4aa38,kingly.cooking,available,32.49,32.49,high,low,6,namesilo,,,22/08/2026 16:17
-2bd6ed0b-2421-4875-9929-421bee3d71ed,formula.cooking,available,33.98,43.98,high,low,7,namecheap,,,03/09/2026 21:16
+2bd6ed0b-2421-4875-9929-421bee3d71ed,formula.cooking,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 08:04
+9fcaff35-9bea-4913-baef-943f67448e74,durban.cooking,available,26.97,26.97,medium,low,6,dynadot,,,28/09/2026 09:32
 00c46677-b7d3-4136-8ce8-810505274cd7,rhombic.cooking,available,32.49,32.49,medium,low,7,namesilo,,,09/09/2026 16:43
 9207c1d9-2366-4d47-8f61-553d1a4b37f7,offices.cooking,available,32.49,32.49,medium,low,7,namesilo,,,18/09/2026 05:07
 687970bf-35eb-4168-9763-9e7a2713c3b6,eroded.cooking,available,32.49,32.49,medium,low,6,namesilo,,,17/08/2026 12:24
@@ -806,6 +869,7 @@ b0453fa0-36bc-42f5-bf49-05b89340ec44,scripps.cooking,available,33.98,43.98,high,
 a8441cd9-4d18-4bb0-931b-bc9ec86f5073,homey.cooking,available,32.49,32.49,high,low,5,namesilo,,,21/08/2026 11:06
 689d9ca7-2f9e-40ce-b5ab-04787f09fd0b,passcode.cooking,available,32.49,32.49,high,low,8,namesilo,,,
 67ace828-1bc1-4527-bc75-347c467e8b68,quartic.cooking,available,32.49,32.49,high,low,7,namesilo,,,10/08/2026 05:37
+5e396a61-715b-4fb7-8354-41ceee185a5b,segment.cooking,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 20:24
 7e865ba6-5c51-4ad3-b74a-67b1856c385d,gaza.cooking,available,32.49,32.49,medium,low,4,namesilo,,,25/09/2026 06:23
 acebdad5-8d4b-44b8-88d0-cc77a920c5f9,callable.cooking,available,32.49,32.49,medium,low,8,namesilo,,,11/08/2026 14:26
 39e651d6-62d6-4d58-af3c-5690cc26c298,grandiose.cooking,available,33.98,43.98,high,low,9,namecheap,,,20/08/2026 17:58
@@ -821,6 +885,7 @@ acebdad5-8d4b-44b8-88d0-cc77a920c5f9,callable.cooking,available,32.49,32.49,medi
 5221af50-be1a-4178-8dc8-b89584d088c0,tornados.cooking,available,32.49,32.49,medium,low,8,namesilo,,,16/09/2026 14:12
 01096ac9-0bc3-4e9a-b67d-9943f5594010,wistful.cooking,available,32.49,32.49,high,low,7,namesilo,,,13/09/2026 12:45
 c8b9d772-2746-422d-8288-be35a28e01a3,sitting.cooking,available,26.97,26.97,high,low,7,dynadot,,,27/09/2026 19:14
+7b398ecf-422c-49d5-a602-46151a874ea2,equation.cooking,available,26.08,26.08,high,low,8,spaceship,,,28/09/2026 19:06
 a9ae990b-a385-44ac-9b68-3935edf15588,closeout.cooking,available,32.49,32.49,high,low,9,namesilo,,,
 e77a19cd-2e07-4c27-b914-ba02f006afb5,fireproof.cooking,available,32.49,32.49,high,low,9,namesilo,,,18/08/2026 05:07
 83199e04-d3be-4a82-aeaa-faacd17cbbf6,serbian.cooking,available,32.49,32.49,high,low,7,namesilo,,,10/09/2026 04:33
@@ -847,6 +912,7 @@ ce104f51-84ef-4ad8-a24f-0f752d4a8a3b,chthonic.cooking,available,32.49,32.49,medi
 b691e075-0e2d-4448-9b27-9475114de831,abidance.cooking,available,32.49,32.49,medium,low,8,namesilo,,,16/09/2026 15:33
 97b8095c-30fa-41e3-b1cc-779dcd4ec0ba,builder.cooking,available,32.49,32.49,high,low,7,namesilo,,,
 f61602d7-a729-4823-93fc-8b8e4fee6c64,frisian.cooking,available,32.49,32.49,medium,low,7,namesilo,,,18/08/2026 15:59
+7cf6aa13-1a6d-4f57-b649-648c1b7849f2,trujillo.cooking,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 16:38
 94b00c34-dae7-40fe-915c-1723d030ef5d,lunar.cooking,available,33.98,43.98,high,medium,5,namecheap,,,25/09/2026 15:39
 e8a4adca-92bf-4ead-a396-ce895874076e,bevy.cooking,available,33.98,43.98,medium,low,4,namecheap,,,23/09/2026 12:05
 a63b874b-f8c4-4c6d-a278-00f19fa92eac,caroline.cooking,premium,100,46.99,high,low,8,name.com,,,11/08/2026 19:29
@@ -866,6 +932,7 @@ d0aa7d9f-81d1-4f18-b345-42107defc0a4,foul.cooking,available,32.49,32.49,high,low
 75501ee3-77a3-4d4a-b590-2f53431bcab8,cruciate.cooking,available,32.49,32.49,medium,low,8,namesilo,,,13/08/2026 08:40
 075b76e9-5b42-4b0f-b1cb-7e40701e1699,neumann.cooking,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 23:19
 da20de08-bdae-4f5d-8327-497b693fdcf5,diehards.cooking,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 23:29
+a6df19d1-3864-48c5-b411-bcc7d6650db1,parrish.cooking,available,32.49,32.49,medium,low,7,namesilo,,,28/09/2026 14:51
 376b17a3-aa31-4280-87d3-33028c16b3d6,stints.cooking,available,33.98,43.98,medium,low,6,namecheap,,,20/09/2026 14:23
 773830e7-4632-460f-9e9c-90a86ecb310f,prat.cooking,available,32.49,32.49,medium,low,4,namesilo,,,09/08/2026 11:18
 6deaef4b-1b9a-4140-9654-82734976fc64,buck.cooking,available,32.49,32.49,high,low,4,namesilo,,,
@@ -887,9 +954,10 @@ dd078e4c-755b-4beb-b3e7-fc9b4d40798e,madagascan.cooking,available,32.49,32.49,me
 d1ea878d-56a4-4a02-a8e1-c7bfdb874192,contextual.cooking,available,32.49,32.49,high,low,10,namesilo,,,12/08/2026 23:13
 33cf4c50-f20a-4e05-ae57-1565cfe20078,belfast.cooking,premium,96,29.5,high,low,7,namesilo,,,23/09/2026 04:55
 ebe57f58-28df-4fd0-9b70-7f17802e1168,mohammad.cooking,available,26.08,26.08,high,low,8,spaceship,,,28/09/2026 06:19
+c2d12a68-1136-4f6a-8692-5fcc487b84c7,appearances.cooking,available,32.49,32.49,low,low,11,namesilo,,,28/09/2026 23:35
 0a5ef4f0-7a91-4620-a4b4-d619e5870cd4,analogous.cooking,available,32.49,32.49,medium,low,9,namesilo,,,
 c4c79519-6d95-4dee-ae0a-8063d541a609,pal.cooking,premium,96,29.5,high,low,3,namesilo,,,
-417f40dc-05ce-448b-8f7b-12bcbb14aca1,acne.cooking,available,32.49,32.49,high,low,4,namesilo,,,
+417f40dc-05ce-448b-8f7b-12bcbb14aca1,acne.cooking,available,25.2,25.2,medium,low,4,cloudflare,,,28/09/2026 17:51
 4ae49854-fba2-454d-9dcb-ca2fadc2adbb,mimic.cooking,available,32.49,32.49,high,low,5,namesilo,,,24/08/2026 23:29
 bc705f27-e507-46c5-9743-d9b63dcb0fbd,moo.cooking,premium,47.2,29.5,high,low,3,namesilo,,,24/08/2026 10:19
 673344f1-116f-4d62-a0b0-12ce3e06349e,guards.cooking,available,32.49,32.49,high,low,6,namesilo,,,
@@ -904,7 +972,7 @@ ad6f8261-5bf5-4bca-ab4a-8b1b41da5899,winds.cooking,available,26.08,26.08,medium,
 1717e35d-034c-446c-ac92-2245e477f01c,orphic.cooking,available,32.49,32.49,medium,low,6,namesilo,,,03/09/2026 12:27
 7b3b78a6-890e-4d7a-8cd0-d8935b33284f,crybaby.cooking,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 06:47
 17856e06-88d0-4fa0-acd6-9b6976b60692,eerie.cooking,available,32.49,32.49,high,low,5,namesilo,,,15/08/2026 12:43
-f8a73d1c-faed-4cf1-8aa7-caffe9dcfede,wrongful.cooking,available,32.49,32.49,medium,low,8,namesilo,,,
+f8a73d1c-faed-4cf1-8aa7-caffe9dcfede,wrongful.cooking,available,25.2,25.2,medium,low,8,cloudflare,,,28/09/2026 11:11
 8548d26b-cb4f-4b1b-9957-f07408d9d10d,sedative.cooking,available,32.49,32.49,high,low,8,namesilo,,,22/09/2026 10:55
 7bf5980d-0a9c-4766-87c5-2d43c7c51a19,cashew.cooking,available,33.98,43.98,high,low,6,namecheap,,,19/09/2026 01:00
 a239a8ad-0172-483e-b969-735e9c7c0ae3,anguine.cooking,available,32.49,32.49,low,low,7,namesilo,,,
@@ -917,7 +985,7 @@ a2734b46-ae09-457e-b8d3-50aec12edb7e,goosebumps.cooking,available,32.49,32.49,me
 52225611-ca86-4f44-8f72-ed52b39634d8,apologetic.cooking,available,32.49,32.49,medium,low,10,namesilo,,,06/08/2026 02:07
 51665bdb-6316-400f-91c0-e555b3dd609d,beriberi.cooking,available,32.49,32.49,medium,low,8,namesilo,,,23/09/2026 09:23
 9f7a5c47-deb8-4ba3-8996-00e35a557cab,unisexual.cooking,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 13:54
-70d73c1d-424e-4e8e-a0b7-3682db64f620,micro.cooking,available,32.49,32.49,high,medium,5,namesilo,,,23/09/2026 08:34
+70d73c1d-424e-4e8e-a0b7-3682db64f620,micro.cooking,available,25.2,25.2,high,medium,5,cloudflare,,,28/09/2026 08:21
 31c39d28-130a-4a36-a54b-4269f033f080,zonal.cooking,available,32.49,32.49,medium,low,5,namesilo,,,13/09/2026 15:29
 7804c06a-2163-42b7-8f77-4b895cfe3c7c,voiceless.cooking,available,32.49,32.49,medium,low,9,namesilo,,,05/08/2026 23:23
 8e781005-5d2b-416f-8d55-258e9445b7a3,brushy.cooking,available,33.98,43.98,medium,low,6,namecheap,,,10/08/2026 20:19
@@ -931,71 +999,3 @@ da6a3c7f-9140-4624-a3e5-f17b70f23b24,hipped.cooking,available,32.49,32.49,medium
 808efce8-8e11-406d-9327-c9cf86bcd5e2,advisee.cooking,available,32.49,32.49,medium,low,7,namesilo,,,17/09/2026 11:34
 8e716828-2205-4c06-baf2-0bcbf2d78af4,dominate.cooking,available,32.49,32.49,high,low,8,namesilo,,,16/09/2026 01:33
 9442bef8-1bb6-45e7-85e5-a94f052b99d5,hirsch.cooking,available,32.49,32.49,high,low,6,namesilo,,,27/09/2026 07:27
-0ea2a8ba-9603-4646-b3d8-aed606f3af2b,footling.cooking,available,32.49,32.49,medium,low,8,namesilo,,,18/08/2026 03:30
-7053520e-4e2a-4ea5-a51f-c1c1135c1131,surd.cooking,available,32.49,32.49,medium,low,4,namesilo,,,11/09/2026 03:41
-61b50cbf-f7d1-4c91-9f4b-a6c5dda4eb5b,ways.cooking,available,32.49,32.49,high,low,4,namesilo,,,
-28012155-ff33-4511-bff6-9e0674432cf5,abm.cooking,premium,47.2,29.5,high,low,3,namesilo,,,16/09/2026 16:15
-4ce7af6a-3744-4772-ac92-ce14b321f47b,greg.cooking,available,32.49,32.49,high,low,4,namesilo,,,
-2168d079-655a-40d9-b420-d987879c04cf,routinely.cooking,available,32.49,32.49,medium,low,9,namesilo,,,16/09/2026 00:11
-1c4cfb4d-b24d-4306-a02b-e5fb6041428e,alhambra.cooking,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 07:18
-1879a9cd-f3e1-4283-adfe-ebd0ad5ef03b,avid.cooking,available,32.49,32.49,high,low,4,namesilo,,,07/08/2026 23:21
-668936d8-bac2-421a-bdb6-a7cb8c567156,nonfinite.cooking,available,33.98,43.98,medium,low,10,namecheap,,,03/09/2026 18:26
-dc217ab7-fb18-4b80-b28f-ed16b2e5f847,akkadian.cooking,available,46.99,46.99,medium,low,8,name.com,,,18/09/2026 00:10
-7e89762d-f708-4445-af26-44b590a9d2b2,reliever.cooking,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 10:02
-e758b87e-7d73-4ab5-9d73-00bc4b273a48,hotshot.cooking,available,32.49,32.49,high,low,7,namesilo,,,21/09/2026 17:48
-b90a29d8-02b7-4a6e-8174-80db3ebb7f38,warmly.cooking,available,32.49,32.49,high,low,6,namesilo,,,13/09/2026 08:17
-facdff78-1e3b-4775-b4bd-ec9155292262,threats.cooking,available,32.49,32.49,medium,low,7,namesilo,,,18/09/2026 23:54
-50340ada-8cb2-4906-b682-424c34efe288,exist.cooking,available,32.49,32.49,high,low,5,namesilo,,,
-f52a9884-d91b-4a7c-a813-f253949c75cc,impute.cooking,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 02:18
-5ddcc1e4-da1a-4186-83c7-dc0b4dec0fae,jarring.cooking,available,32.49,32.49,medium,low,7,namesilo,,,22/08/2026 12:26
-08203fa0-16c5-41a6-af6f-d938fe4fa51e,wing.cooking,available,32.49,32.49,high,low,4,namesilo,,,22/09/2026 15:49
-fcb4da25-6d9d-4f54-aaea-0425c7451ec0,towel.cooking,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 03:13
-72f2f3a1-d05e-4ea7-a773-794c3a7f0bf3,deaf.cooking,premium,50,50,high,low,4,name.com,,,13/08/2026 19:42
-b06b6740-45ec-4b50-9d9f-4ecebf001be3,caused.cooking,available,33.98,43.98,medium,low,6,namecheap,,,25/09/2026 18:57
-6482f789-8f63-43e8-9c76-cc4bacc804f9,streamed.cooking,available,32.49,32.49,high,low,8,namesilo,,,28/09/2026 03:37
-985311b5-9d2a-4763-8fda-e4d0800ece65,sociable.cooking,available,32.49,32.49,high,medium,8,namesilo,,,10/09/2026 13:08
-0671b344-ea61-46ba-b429-cb8df2c247a3,privy.cooking,available,32.49,32.49,high,low,5,namesilo,,,09/09/2026 02:12
-7296140e-64cb-4f9b-8c2b-d677b5073e98,cinema.cooking,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 05:06
-14cc7d4d-a591-4730-aa5d-92203b346d99,demoted.cooking,available,32.49,32.49,low,low,7,namesilo,,,21/09/2026 05:02
-92b4d68e-6ae3-4742-abcc-1d831387d1ad,oriole.cooking,available,33.98,43.98,high,low,6,namecheap,,,18/09/2026 20:26
-c1fd14be-7f2c-4af3-a9da-1ef7fe2ff925,pleasing.cooking,available,46.99,46.99,high,low,8,name.com,,,27/09/2026 04:10
-805ea69a-d2e4-484d-a911-8365194478b5,university.cooking,premium,242,29.5,high,low,10,namesilo,,,26/09/2026 00:46
-e33210a4-7bc8-4119-9eec-2054a3878c4d,syncretic.cooking,available,32.49,32.49,medium,low,9,namesilo,,,11/09/2026 06:21
-7bed6019-a9ab-44cb-8ec9-da107185e711,fade.cooking,available,32.49,32.49,high,low,4,namesilo,,,28/09/2026 05:41
-15ba142e-65b4-4b60-815b-e53361ac477c,racist.cooking,available,32.49,32.49,medium,low,6,namesilo,,,
-bb058b1d-1b30-48b9-ae4d-eb66d1c0867b,alces.cooking,available,33.98,43.98,high,low,5,namecheap,,,18/09/2026 03:55
-e360fa9a-4ffd-4096-b175-40e51cf64397,maddening.cooking,available,32.49,32.49,medium,low,9,namesilo,,,17/08/2026 15:55
-56f5cfc2-68dd-4268-ac81-d43d322ab4bf,dismay.cooking,available,32.49,32.49,medium,low,6,namesilo,,,
-76da77eb-6225-4b7b-9809-75d62d1a230d,purposes.cooking,available,32.49,32.49,medium,low,8,namesilo,,,
-aae4ad1d-bd46-4329-a5c7-0a2923e1130c,malay.cooking,available,32.49,32.49,high,low,5,namesilo,,,24/08/2026 13:42
-8fa2bd1f-998c-427b-ba61-5cc79dedfa54,neophyte.cooking,available,32.49,32.49,medium,low,8,namesilo,,,18/08/2026 07:34
-8716d565-f371-458c-913a-5a706e7521cb,anybody.cooking,available,43.98,,medium,low,7,namecheap,,,
-8a2e612d-3923-41f6-b922-9ba09dc0f265,asker.cooking,available,33.98,43.98,medium,low,5,namecheap,,,20/09/2026 14:27
-1396c39b-8e4e-413e-95db-dc36d53afd28,sparkly.cooking,available,32.49,32.49,high,low,7,namesilo,,,
-1c7e1019-fd22-4655-8733-f3ccb1cf0c09,dolphin.cooking,available,33.98,43.98,high,low,7,namecheap,,,24/09/2026 23:22
-3650927b-c58a-4ebe-ac59-0a2e8055165d,locks.cooking,available,32.49,32.49,high,low,5,namesilo,,,16/09/2026 14:31
-2ef53e10-b7e2-4a7f-be64-9ef966b9f541,royce.cooking,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 04:09
-b2d06e80-932b-4aa8-8c6b-362c6a17a8e0,cooperation.cooking,available,26.08,26.08,high,low,11,spaceship,,,28/09/2026 04:34
-220037f9-583b-453d-bc90-624b04066ed9,mansfield.cooking,available,32.49,32.49,medium,low,9,namesilo,,,25/09/2026 08:08
-625bff66-5762-4db4-9332-1854022a51ee,crepuscule.cooking,available,32.49,32.49,medium,low,10,namesilo,,,11/09/2026 21:48
-c547c063-08cb-46d2-9906-8b474d13a06c,sidereal.cooking,available,32.49,32.49,high,medium,8,namesilo,,,10/09/2026 07:46
-dc8d902c-3bc4-447e-8c3d-47d324d95c78,pigs.cooking,available,32.49,32.49,high,low,4,namesilo,,,25/09/2026 15:51
-01293be1-8bf1-4c4b-874f-1dc58bad6a9c,hammond.cooking,available,46.99,46.99,high,low,7,name.com,,,25/09/2026 12:21
-8edd876e-2505-47a7-890a-c99c42892c04,polytonal.cooking,available,32.49,32.49,medium,low,9,namesilo,,,08/09/2026 23:33
-e3460056-394c-4c0c-b559-59e9d9a91958,scurvy.cooking,available,32.49,32.49,medium,low,6,namesilo,,,
-8a549017-a141-46e9-abf0-e06a43bd5196,switched.cooking,available,32.49,32.49,medium,low,8,namesilo,,,27/09/2026 09:43
-b4d64c6d-b0a2-4674-adec-3b7fe3e807f2,sombre.cooking,available,32.49,32.49,medium,low,6,namesilo,,,10/09/2026 14:02
-82c08b39-2d33-407a-a8b8-739755685e4f,priests.cooking,available,32.49,32.49,medium,low,7,namesilo,,,18/09/2026 03:38
-a5e6c5dc-fba2-4f9a-bd88-6d3f95777058,shortest.cooking,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 14:24
-e90fd23d-34c2-4eb7-9b03-54465cf3642e,angolan.cooking,available,32.49,32.49,high,low,7,namesilo,,,
-8db6e662-ae2a-45fb-9e49-f121d048f702,completely.cooking,available,33.98,43.98,high,low,10,namecheap,,,22/09/2026 00:16
-a1f56741-6072-4202-a1c4-d7a992015223,arachnida.cooking,available,33.98,43.98,medium,low,9,namecheap,,,19/09/2026 23:41
-366afa7e-1091-425c-bea3-120855d88c84,crude.cooking,available,33.98,43.98,high,low,5,namecheap,,,24/09/2026 02:12
-6f3add9f-64a6-427a-b6c6-7d114ff9d3df,fuddled.cooking,available,32.49,32.49,low,low,7,namesilo,,,09/08/2026 15:36
-83f9d75d-aa93-4113-b544-f8f425f142ff,change.cooking,available,32.49,32.49,high,medium,6,namesilo,,,
-bbabd0f5-c0d9-4597-ab39-5e43d794a703,goodness.cooking,available,49.99,49.99,high,low,8,godaddy,,,28/09/2026 02:02
-bf93ff29-3500-42f0-b43c-30ae138512d6,neck.cooking,available,32.49,32.49,high,low,4,namesilo,,,
-9b49abcb-93dc-4132-bd3e-4381b18c9c60,alhaytham.cooking,available,32.49,32.49,medium,low,10,namesilo,,,18/09/2026 00:48
-de22e686-3361-401c-83ac-922b785a0b8a,sheetlike.cooking,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 06:21
-01d23132-47f3-43cf-84c3-ba5da063d9c3,bahraini.cooking,available,32.49,32.49,medium,low,8,namesilo,,,08/08/2026 08:36
-37e5007e-7e1d-4f4e-8015-25d1385dc663,zesty.cooking,available,33.98,43.98,high,low,5,namecheap,,,08/08/2026 20:02
