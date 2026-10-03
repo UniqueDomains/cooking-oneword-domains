@@ -1,10 +1,10 @@
-# Available .COOKING One-Word Domains (33,840)
+# Available .COOKING One-Word Domains (36,250)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C840%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C250%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cooking one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,840 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,250 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,840 domains · **Median ask:** $36.79 · **High-demand under $2,500:** 72
+**Public extract:** 1,000 rows · **Live catalog:** 36,250 domains · **Median ask:** $36.38 · **High-demand under $2,500:** 77
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/cooking`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| arca.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                  |
-| order.cooking    | resell    | —         | —             | high           | medium | 5      | Dreamscape Networks International Pte Ltd |
-| adz.cooking      | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo                                  |
-| arch.cooking     | available | $32.49    | $32.49        | high           | medium | 4      | namesilo                                  |
-| monastic.cooking | resell    | —         | —             | medium         | low    | 8      | Porkbun                                   |
-| aim.cooking      | premium   | $96       | $29.50        | high           | medium | 3      | namesilo                                  |
-| ares.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                  |
-| ain.cooking      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                                  |
-| argo.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                  |
-| als.cooking      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                                  |
-| aunt.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                  |
-| amr.cooking      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                                  |
-| awol.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                  |
-| ash.cooking      | premium   | $96       | $29.50        | high           | medium | 3      | namesilo                                  |
-| beam.cooking     | available | $32.49    | $32.49        | high           | medium | 4      | namesilo                                  |
-| bit.cooking      | premium   | $218.86   | $27.82        | high           | medium | 3      | porkbun                                   |
-| brim.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                                  |
-| bsa.cooking      | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship                                 |
-| bulb.cooking     | available | $25.20    | $25.20        | high           | low    | 4      | cloudflare                                |
-| cad.cooking      | premium   | $104      | $32.50        | high           | low    | 3      | namecheap                                 |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| iot.cooking      | available | $26.08    | $26.08        | high           | medium | 3      | spaceship  |
+| monastic.cooking | resell    | —         | —             | medium         | low    | 8      | Porkbun    |
+| adz.cooking      | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo   |
+| arca.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo   |
+| aim.cooking      | premium   | $96       | $29.50        | high           | medium | 3      | namesilo   |
+| arch.cooking     | available | $32.49    | $32.49        | high           | medium | 4      | namesilo   |
+| ain.cooking      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo   |
+| ares.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo   |
+| als.cooking      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo   |
+| argo.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo   |
+| amr.cooking      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo   |
+| aunt.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo   |
+| ash.cooking      | premium   | $96       | $29.50        | high           | medium | 3      | namesilo   |
+| awol.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo   |
+| bit.cooking      | premium   | $218.86   | $27.82        | high           | medium | 3      | porkbun    |
+| beam.cooking     | available | $32.49    | $32.49        | high           | medium | 4      | namesilo   |
+| bsa.cooking      | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship  |
+| brim.cooking     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo   |
+| cad.cooking      | premium   | $104      | $32.50        | high           | low    | 3      | namecheap  |
+| bulb.cooking     | available | $25.20    | $25.20        | high           | low    | 4      | cloudflare |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,840 live domains                        |
+| 1,000-row public sample | 36,250 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 72 high-demand names under $2,500          |
+| Basic exported fields   | 77 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOKING One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
